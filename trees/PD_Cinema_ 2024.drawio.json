@@ -21,13 +21,13 @@
       "-21806Boy_NOIRkgfPgvMF4Jy-12": {
         "buttonText": "NOT Pseudonymous or Anonymous",
         "-21806Boy_NOIRkgfPgvMF4Jy-16": {
-          "buttonText": "Death before 31 Dec 1971",
+          "buttonText": "Death before 01 Jan 1972",
           "-21806Boy_NOIRkgfPgvMF4Jy-20": {
             "buttonText": "Public Domain <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6-20021231.html'>(death +50 years) (old s. 6)</a>"
           }
         },
         "-21306Boy_NOIRkgfPgvMF4Jy-18": {
-          "buttonText": "Death on or after 31 Dec 1971",
+          "buttonText": "Death on or after 01 Jan 1972",
           "-21306Boy_NOIRkgfPgvMF4Jy-27": {
             "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html'>(s. 6)</a>"
           }
@@ -38,13 +38,13 @@
         "-20806Boy_NOIRkgfPgvMF4Jy-23": {
           "buttonText": "Author is Commonly Known",
           "-20806Boy_NOIRkgfPgvMF4Jy-25": {
-            "buttonText": "Death before 31 Dec 1971",
+            "buttonText": "Death before 01 Jan 1972",
             "-20806Boy_NOIRkgfPgvMF4Jy-22": {
               "buttonText": "Public Domain <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6-20021231.html'>(death +50 years) (old s. 6)</a>"
             }
           },
           "-20306Boy_NOIRkgfPgvMF4Jy-26": {
-            "buttonText": "Death on or after 31 Dec 1971",
+            "buttonText": "Death on or after 01 Jan 1972",
             "-20306Boy_NOIRkgfPgvMF4Jy-28": {
               "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html'>(s. 6)</a>"
             }
@@ -141,13 +141,13 @@
       "-1440M7Phqlr7IWDdHj0gZwUm-39": {
         "buttonText": "NOT Pseudonymous or Anonymous",
         "-1440M7Phqlr7IWDdHj0gZwUm-40": {
-          "buttonText": "Last death before 31 Dec 1971",
+          "buttonText": "Last death before 01 Jan 1972",
           "-1440M7Phqlr7IWDdHj0gZwUm-41": {
             "buttonText": "Public Domain at last death +50 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-9-20200701.html'>(old s. 9(1))</a>"
           }
         },
         "-1390M7Phqlr7IWDdHj0gZwUm-45": {
-          "buttonText": "Last death on or after 31 Dec 1971",
+          "buttonText": "Last death on or after 01 Jan 1972",
           "-1390M7Phqlr7IWDdHj0gZwUm-47": {
             "buttonText": "Public Domain at last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-9.html'>(s. 9)</a>"
           }
@@ -158,13 +158,13 @@
         "-1340M7Phqlr7IWDdHj0gZwUm-51": {
           "buttonText": "Author is Commonly Known",
           "-1340M7Phqlr7IWDdHj0gZwUm-53": {
-            "buttonText": "Last death before 31 Dec 1971",
+            "buttonText": "Last death before 01 Jan 1972",
             "-1340M7Phqlr7IWDdHj0gZwUm-57": {
               "buttonText": "Public Domain at last death +50 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-9-20200701.html'>(old s. 9(1))</a>"
             }
           },
           "-1290M7Phqlr7IWDdHj0gZwUm-60": {
-            "buttonText": "Last death on or after 31 Dec 1971",
+            "buttonText": "Last death on or after 01 Jan 1972",
             "-1290M7Phqlr7IWDdHj0gZwUm-62": {
               "buttonText": "Public Domain at last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-9.html'>(s. 9)</a>"
             }
