@@ -1,0 +1,258 @@
+{
+  "text": "Cinematographic Work",
+  "6Boy_NOIRkgfPgvMF4Jy-7": {
+    "buttonText": "Joint Authors",
+    "6Boy_NOIRkgfPgvMF4Jy-10": {
+      "buttonText": "Dramatic",
+      "M7Phqlr7IWDdHj0gZwUm-49": {
+        "buttonText": "Pseudonymous or Anonymous",
+        "M7Phqlr7IWDdHj0gZwUm-51": {
+          "buttonText": "Commonly Known",
+          "M7Phqlr7IWDdHj0gZwUm-53": {
+            "buttonText": "Last death before 31 Dec 1971",
+            "M7Phqlr7IWDdHj0gZwUm-57": {
+              "buttonText": "PD at last death +50 yrs (old s.9(1))"
+            }
+          },
+          "M7Phqlr7IWDdHj0gZwUm-60": {
+            "buttonText": "Last death on or after 31 Dec 1971",
+            "M7Phqlr7IWDdHj0gZwUm-62": {
+              "buttonText": "PD at last death +70 yrs (s.9)"
+            }
+          }
+        },
+        "M7Phqlr7IWDdHj0gZwUm-64": {
+          "buttonText": "NOT Commonly Known",
+          "M7Phqlr7IWDdHj0gZwUm-67": {
+            "buttonText": "Created before 01 Jan 1945",
+            "6Boy_NOIRkgfPgvMF4Jy-15": {
+              "buttonText": "Unpublished",
+              "7yszjvRM-jgDVGeYWOk8-1": {
+                "buttonText": "PD at creation +75 yrs (old s.6.2)"
+              }
+            },
+            "M7Phqlr7IWDdHj0gZwUm-70": {
+              "buttonText": "Published before 01 Jan 1970",
+              "pbaQaiaiig_F99v0XbuH-42": {
+                "buttonText": "PD at earlier of pub +50 yrs creation +75 yrs (old s.6.2)"
+              }
+            },
+            "M7Phqlr7IWDdHj0gZwUm-71": {
+              "buttonText": "Published on or after 01 Jan 1970",
+              "pbaQaiaiig_F99v0XbuH-45": {
+                "buttonText": "PD at creation +75 yrs (old s.6.2)"
+              }
+            }
+          },
+          "pbaQaiaiig_F99v0XbuH-1": {
+            "buttonText": "Created on or after 01 Jan 1945",
+            "pbaQaiaiig_F99v0XbuH-5": {
+              "buttonText": "Unpublished",
+              "pbaQaiaiig_F99v0XbuH-7": {
+                "buttonText": "PD at creation +75 yrs (s.6.2(1))"
+              }
+            },
+            "pbaQaiaiig_F99v0XbuH-4": {
+              "buttonText": "Published",
+              "pbaQaiaiig_F99v0XbuH-6": {
+                "buttonText": "PD at earlier of pub +75 yrs creation +100 yrs (s.6.2(1))"
+              }
+            }
+          }
+        }
+      },
+      "M7Phqlr7IWDdHj0gZwUm-39": {
+        "buttonText": "NOT Pseudonymous or Anonymous",
+        "M7Phqlr7IWDdHj0gZwUm-40": {
+          "buttonText": "Last death before 31 Dec 1971",
+          "M7Phqlr7IWDdHj0gZwUm-41": {
+            "buttonText": "PD at last death +50 yrs (old s.9(1))"
+          }
+        },
+        "M7Phqlr7IWDdHj0gZwUm-45": {
+          "buttonText": "Last death on or after 31 Dec 1971",
+          "M7Phqlr7IWDdHj0gZwUm-47": {
+            "buttonText": "PD at last death +70 yrs (s.9)"
+          }
+        }
+      }
+    },
+    "6Boy_NOIRkgfPgvMF4Jy-11": {
+      "buttonText": "Non-dramatic",
+      "pbaQaiaiig_F99v0XbuH-27": {
+        "buttonText": "Created on or after 01 Jan 1970",
+        "pbaQaiaiig_F99v0XbuH-29": {
+          "buttonText": "Published before creation +70 years",
+          "pbaQaiaiig_F99v0XbuH-31": {
+            "buttonText": "PD at earlier of pub +75 yrs creation +100 yrs (s.11.1)"
+          }
+        },
+        "pbaQaiaiig_F99v0XbuH-30": {
+          "buttonText": "Published after creation +70 years",
+          "pbaQaiaiig_F99v0XbuH-32": {
+            "buttonText": "PD at creation +75 yrs (s.11.1)"
+          }
+        }
+      },
+      "pbaQaiaiig_F99v0XbuH-13": {
+        "buttonText": "Created before 01 Jan 1970",
+        "8pA-GoDgISC_A4u1G1ne-12": {
+          "buttonText": "Published before creation +50 yrs",
+          "pbaQaiaiig_F99v0XbuH-14": {
+            "buttonText": "Published before 01 Jan 1970",
+            "pbaQaiaiig_F99v0XbuH-15": {
+              "buttonText": "PD at publication +50 yrs (old s.11.1)"
+            }
+          },
+          "pbaQaiaiig_F99v0XbuH-20": {
+            "buttonText": "Published on or after 01 Jan 1970",
+            "pbaQaiaiig_F99v0XbuH-21": {
+              "buttonText": "PD at earlier of pub +75 yrs creation +100 yrs (s.11.1)"
+            }
+          }
+        },
+        "8pA-GoDgISC_A4u1G1ne-13": {
+          "buttonText": "Published after creation +50 yrs",
+          "pbaQaiaiig_F99v0XbuH-25": {
+            "buttonText": "PD at creation +50 yrs (old s.11.1)"
+          }
+        }
+      }
+    }
+  },
+  "6Boy_NOIRkgfPgvMF4Jy-6": {
+    "buttonText": "Individual Author",
+    "6Boy_NOIRkgfPgvMF4Jy-9": {
+      "buttonText": "Non-dramatic",
+      "8pA-GoDgISC_A4u1G1ne-18": {
+        "buttonText": "Created on or after 01 Jan 1970",
+        "7yszjvRM-jgDVGeYWOk8-0": {
+          "buttonText": "Published after creation +70 years",
+          "6Boy_NOIRkgfPgvMF4Jy-31": {
+            "buttonText": "PD at creation +75 yrs (s.11.1)"
+          }
+        },
+        "8pA-GoDgISC_A4u1G1ne-7": {
+          "buttonText": "Published before creation +70 years",
+          "M7Phqlr7IWDdHj0gZwUm-32": {
+            "buttonText": "PD at earlier of pub +75 yrs creation +100 yrs (s.11.1)"
+          }
+        }
+      },
+      "8pA-GoDgISC_A4u1G1ne-16": {
+        "buttonText": "Created before 01 Jan 1970",
+        "8pA-GoDgISC_A4u1G1ne-10": {
+          "buttonText": "Published after creation +50 yrs",
+          "8pA-GoDgISC_A4u1G1ne-11": {
+            "buttonText": "PD at creation +50 yrs (old s.11.1)"
+          }
+        },
+        "8pA-GoDgISC_A4u1G1ne-2": {
+          "buttonText": "Published before creation +50 yrs",
+          "M7Phqlr7IWDdHj0gZwUm-25": {
+            "buttonText": "Published on or after 01 Jan 1970",
+            "8pA-GoDgISC_A4u1G1ne-14": {
+              "buttonText": "PD at earlier of pub +75 yrs creation +100 yrs (s.11.1)"
+            }
+          },
+          "M7Phqlr7IWDdHj0gZwUm-20": {
+            "buttonText": "Published before 01 Jan 1970",
+            "8pA-GoDgISC_A4u1G1ne-6": {
+              "buttonText": "PD at publication +50 yrs (old s.11.1)"
+            }
+          }
+        }
+      }
+    },
+    "6Boy_NOIRkgfPgvMF4Jy-8": {
+      "buttonText": "Dramatic",
+      "6Boy_NOIRkgfPgvMF4Jy-13": {
+        "buttonText": "Pseudonymous or Anonymous",
+        "6Boy_NOIRkgfPgvMF4Jy-24": {
+          "buttonText": "NOT Commonly Known",
+          "8pA-GoDgISC_A4u1G1ne-0": {
+            "buttonText": "Created before 01 Jan 1945",
+            "8pA-GoDgISC_A4u1G1ne-3": {
+              "buttonText": "Published before 01 Jan 1970",
+              "8pA-GoDgISC_A4u1G1ne-9": {
+                "buttonText": "PD at earlier of pub +50 yrs creation +75 yrs (old s.6.1)"
+              }
+            },
+            "6Boy_NOIRkgfPgvMF4Jy-30": {
+              "buttonText": "Unpublished",
+              "pbaQaiaiig_F99v0XbuH-46": {
+                "buttonText": "PD at creation +75 yrs (old s.6.1)"
+              }
+            },
+            "8pA-GoDgISC_A4u1G1ne-8": {
+              "buttonText": "Published on or after 01 Jan 1970",
+              "8pA-GoDgISC_A4u1G1ne-15": {
+                "buttonText": "PD at creation +75 yrs (old s.6.1)"
+              }
+            }
+          },
+          "8pA-GoDgISC_A4u1G1ne-1": {
+            "buttonText": "Created on or after 01 Jan 1945",
+            "M7Phqlr7IWDdHj0gZwUm-11": {
+              "buttonText": "Unpublished",
+              "M7Phqlr7IWDdHj0gZwUm-12": {
+                "buttonText": "PD at creation +75 yrs (s.6.1(1))"
+              }
+            },
+            "M7Phqlr7IWDdHj0gZwUm-10": {
+              "buttonText": "Published",
+              "6Boy_NOIRkgfPgvMF4Jy-21": {
+                "buttonText": "PD at earlier of pub +75 yrs creation +100 yrs (s.6.1(1))"
+              }
+            }
+          }
+        },
+        "6Boy_NOIRkgfPgvMF4Jy-23": {
+          "buttonText": "Commonly Known",
+          "6Boy_NOIRkgfPgvMF4Jy-25": {
+            "buttonText": "Death before 31 Dec 1971",
+            "6Boy_NOIRkgfPgvMF4Jy-22": {
+              "buttonText": "PD (death +50 yrs) (old s.6)"
+            }
+          },
+          "6Boy_NOIRkgfPgvMF4Jy-26": {
+            "buttonText": "Death on or after 31 Dec 1971",
+            "6Boy_NOIRkgfPgvMF4Jy-28": {
+              "buttonText": "PD at death +70 yrs (s.6)"
+            }
+          }
+        }
+      },
+      "6Boy_NOIRkgfPgvMF4Jy-12": {
+        "buttonText": "NOT Pseudonymous or Anonymous",
+        "6Boy_NOIRkgfPgvMF4Jy-18": {
+          "buttonText": "Death on or after 31 Dec 1971",
+          "6Boy_NOIRkgfPgvMF4Jy-27": {
+            "buttonText": "PD at death +70 yrs (s.6)"
+          }
+        },
+        "6Boy_NOIRkgfPgvMF4Jy-16": {
+          "buttonText": "Death before 31 Dec 1971",
+          "6Boy_NOIRkgfPgvMF4Jy-20": {
+            "buttonText": "PD (death +50 yrs) (old s.6)"
+          }
+        }
+      }
+    }
+  },
+  "6Boy_NOIRkgfPgvMF4Jy-1": {
+    "buttonText": "Created by/for Crown",
+    "6Boy_NOIRkgfPgvMF4Jy-2": {
+      "buttonText": "Published",
+      "6Boy_NOIRkgfPgvMF4Jy-4": {
+        "buttonText": "PD at publication +50 yrs (s. 12)"
+      }
+    },
+    "6Boy_NOIRkgfPgvMF4Jy-3": {
+      "buttonText": "Unpublished",
+      "6Boy_NOIRkgfPgvMF4Jy-5": {
+        "buttonText": "NOT in PD (s. 12)"
+      }
+    }
+  }
+}

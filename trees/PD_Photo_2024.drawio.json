@@ -1,0 +1,234 @@
+{
+  "text": "Photograph",
+  "-E9yxpJOWmuqV4Hq7I86-11": {
+    "buttonText": "Individual Author",
+    "-E9yxpJOWmuqV4Hq7I86-14": {
+      "buttonText": "Pseudonymous or Anonymous",
+      "-E9yxpJOWmuqV4Hq7I86-102": {
+        "buttonText": "Created on or after 01 Jan 1949",
+        "-E9yxpJOWmuqV4Hq7I86-22": {
+          "buttonText": "Commonly Known",
+          "-E9yxpJOWmuqV4Hq7I86-115": {
+            "buttonText": "Death before 31 Dec 1971",
+            "-E9yxpJOWmuqV4Hq7I86-116": {
+              "buttonText": "PD (death +50 yrs) (old s. 6)"
+            }
+          },
+          "-E9yxpJOWmuqV4Hq7I86-117": {
+            "buttonText": "Death on or after 31 Dec 1971",
+            "-E9yxpJOWmuqV4Hq7I86-118": {
+              "buttonText": "PD at death +70 yrs (s. 6)"
+            }
+          }
+        },
+        "-E9yxpJOWmuqV4Hq7I86-23": {
+          "buttonText": "NOT Commonly Known",
+          "-E9yxpJOWmuqV4Hq7I86-139": {
+            "buttonText": "Unpublished",
+            "-E9yxpJOWmuqV4Hq7I86-130": {
+              "buttonText": "PD at creation +75 yrs (s. 6.1(1))"
+            }
+          },
+          "-E9yxpJOWmuqV4Hq7I86-138": {
+            "buttonText": "Published",
+            "AivGRB2IzG2qxDA_QIcS-0": {
+              "buttonText": "PD at earlier of: pub +75 yrs or creation +100 yrs (s. 6.1(1))"
+            }
+          }
+        }
+      },
+      "-E9yxpJOWmuqV4Hq7I86-101": {
+        "buttonText": "Created before 01 Jan 1949",
+        "-E9yxpJOWmuqV4Hq7I86-103": {
+          "buttonText": "PD (creation +50 yrs) (SC 1997, c.24 s.58)"
+        }
+      }
+    },
+    "-E9yxpJOWmuqV4Hq7I86-13": {
+      "buttonText": "NOT Pseudonymous or Anonymous",
+      "-E9yxpJOWmuqV4Hq7I86-43": {
+        "buttonText": "Created on or after 01 Jan 1949",
+        "-E9yxpJOWmuqV4Hq7I86-46": {
+          "buttonText": "Death before 31 Dec 1971",
+          "-E9yxpJOWmuqV4Hq7I86-48": {
+            "buttonText": "PD (death +50 yrs) (old s. 6)"
+          }
+        },
+        "-E9yxpJOWmuqV4Hq7I86-47": {
+          "buttonText": "Death on or after 31 Dec 1971",
+          "-E9yxpJOWmuqV4Hq7I86-49": {
+            "buttonText": "PD at death +70 yrs (s. 6)"
+          }
+        }
+      },
+      "-E9yxpJOWmuqV4Hq7I86-41": {
+        "buttonText": "Created before 01 Jan 1949",
+        "-E9yxpJOWmuqV4Hq7I86-42": {
+          "buttonText": "PD (creation +50 yrs) (SC 1997, c.24 s.58)"
+        }
+      }
+    }
+  },
+  "-E9yxpJOWmuqV4Hq7I86-8": {
+    "buttonText": "Corporate Author/First-Owner",
+    "-E9yxpJOWmuqV4Hq7I86-9": {
+      "buttonText": "Major Shareholder",
+      "-E9yxpJOWmuqV4Hq7I86-27": {
+        "buttonText": "Created on or after 01 Jan 1949",
+        "-E9yxpJOWmuqV4Hq7I86-33": {
+          "buttonText": "Created on or after 07 Nov 2012",
+          "-E9yxpJOWmuqV4Hq7I86-37": {
+            "buttonText": "PD at death +70 yrs (s. 6)"
+          }
+        },
+        "-E9yxpJOWmuqV4Hq7I86-32": {
+          "buttonText": "Created before 07 Nov 2012",
+          "-E9yxpJOWmuqV4Hq7I86-35": {
+            "buttonText": "Death on or after 31 Dec 1971",
+            "-E9yxpJOWmuqV4Hq7I86-31": {
+              "buttonText": "PD at death +70 yrs (s. 6)"
+            }
+          },
+          "-E9yxpJOWmuqV4Hq7I86-34": {
+            "buttonText": "Death before 31 Dec 1971",
+            "-E9yxpJOWmuqV4Hq7I86-30": {
+              "buttonText": "PD (death +50 yrs) (old s. 6)"
+            }
+          }
+        }
+      },
+      "-E9yxpJOWmuqV4Hq7I86-26": {
+        "buttonText": "Created before 01 Jan 1949",
+        "-E9yxpJOWmuqV4Hq7I86-36": {
+          "buttonText": "PD (creation +50 yrs) (SC 1997, c.24 s.58)"
+        }
+      }
+    },
+    "-E9yxpJOWmuqV4Hq7I86-10": {
+      "buttonText": "NOT Major Shareholder",
+      "-E9yxpJOWmuqV4Hq7I86-29": {
+        "buttonText": "Created on or after 01 Jan 1962",
+        "-E9yxpJOWmuqV4Hq7I86-45": {
+          "buttonText": "Unknown Photographer",
+          "qpWOXk4mW6KMCYVX-Mxv-16": {
+            "buttonText": "Unpublished",
+            "qpWOXk4mW6KMCYVX-Mxv-20": {
+              "buttonText": "PD at creation +75 yrs (s. 6.1(1))"
+            }
+          },
+          "qpWOXk4mW6KMCYVX-Mxv-12": {
+            "buttonText": "Published",
+            "AivGRB2IzG2qxDA_QIcS-1": {
+              "buttonText": "PD at earlier of: pub +75 yrs or creation +100 yrs (s. 6.1(1))"
+            }
+          }
+        },
+        "-E9yxpJOWmuqV4Hq7I86-44": {
+          "buttonText": "Known Photographer",
+          "qpWOXk4mW6KMCYVX-Mxv-0": {
+            "buttonText": "Death before 31 Dec 1971",
+            "qpWOXk4mW6KMCYVX-Mxv-1": {
+              "buttonText": "PD (death +50 yrs) (old s. 6)"
+            }
+          },
+          "qpWOXk4mW6KMCYVX-Mxv-4": {
+            "buttonText": "Death on or after 31 Dec 1971",
+            "qpWOXk4mW6KMCYVX-Mxv-8": {
+              "buttonText": "PD at death +70 yrs (s. 6)"
+            }
+          }
+        }
+      },
+      "-E9yxpJOWmuqV4Hq7I86-28": {
+        "buttonText": "Created before 01 Jan 1962",
+        "-E9yxpJOWmuqV4Hq7I86-124": {
+          "buttonText": "PD (creation +50 yrs) (old s.10) SC 2012 c.20 s.59.1"
+        }
+      }
+    }
+  },
+  "-E9yxpJOWmuqV4Hq7I86-12": {
+    "buttonText": "Joint Authors",
+    "-E9yxpJOWmuqV4Hq7I86-16": {
+      "buttonText": "Pseudonymous or Anonymous",
+      "-E9yxpJOWmuqV4Hq7I86-109": {
+        "buttonText": "Created on or after 01 Jan 1949",
+        "-E9yxpJOWmuqV4Hq7I86-24": {
+          "buttonText": "Commonly Known",
+          "-E9yxpJOWmuqV4Hq7I86-147": {
+            "buttonText": "Last Death on or after 31 Dec 1971",
+            "-E9yxpJOWmuqV4Hq7I86-150": {
+              "buttonText": "PD at death +70 yrs (s. 6.2(2))"
+            }
+          },
+          "-E9yxpJOWmuqV4Hq7I86-146": {
+            "buttonText": "Last Death before 31 Dec 1971",
+            "-E9yxpJOWmuqV4Hq7I86-149": {
+              "buttonText": "PD (last death +50 yrs) (old s.6.2(2))"
+            }
+          }
+        },
+        "-E9yxpJOWmuqV4Hq7I86-25": {
+          "buttonText": "NOT Commonly Known",
+          "-E9yxpJOWmuqV4Hq7I86-151": {
+            "buttonText": "Published",
+            "-E9yxpJOWmuqV4Hq7I86-153": {
+              "buttonText": "PD at earlier of: pub +75 yrs or creation +100 yrs (s. 6.2(1))"
+            }
+          },
+          "-E9yxpJOWmuqV4Hq7I86-152": {
+            "buttonText": "Unpublished",
+            "-E9yxpJOWmuqV4Hq7I86-154": {
+              "buttonText": "PD at creation +75 yrs (s. 6.2(1))"
+            }
+          }
+        }
+      },
+      "-E9yxpJOWmuqV4Hq7I86-107": {
+        "buttonText": "Created before 01 Jan 1949",
+        "-E9yxpJOWmuqV4Hq7I86-108": {
+          "buttonText": "PD (SC 1997, c.24 s.58)"
+        }
+      }
+    },
+    "-E9yxpJOWmuqV4Hq7I86-15": {
+      "buttonText": "NOT Pseudonymous or Anonymous",
+      "-E9yxpJOWmuqV4Hq7I86-85": {
+        "buttonText": "Created on or after 01 Jan 1949",
+        "-E9yxpJOWmuqV4Hq7I86-93": {
+          "buttonText": "Last Death on or after 31 Dec 1971",
+          "-E9yxpJOWmuqV4Hq7I86-97": {
+            "buttonText": "PD at last death +70 yrs (s. 9.1)"
+          }
+        },
+        "-E9yxpJOWmuqV4Hq7I86-92": {
+          "buttonText": "Last Death before 31 Dec 1971",
+          "-E9yxpJOWmuqV4Hq7I86-96": {
+            "buttonText": "PD (last death +50 yrs) (old s. 9.1)"
+          }
+        }
+      },
+      "-E9yxpJOWmuqV4Hq7I86-84": {
+        "buttonText": "Created before 01 Jan 1949",
+        "-E9yxpJOWmuqV4Hq7I86-86": {
+          "buttonText": "PD (creation +50 yrs) (SC 1997, c.24 s.58)"
+        }
+      }
+    }
+  },
+  "-E9yxpJOWmuqV4Hq7I86-1": {
+    "buttonText": "Created by/for Crown",
+    "-E9yxpJOWmuqV4Hq7I86-3": {
+      "buttonText": "Unpublished",
+      "-E9yxpJOWmuqV4Hq7I86-7": {
+        "buttonText": "NOT in PD (s. 12)"
+      }
+    },
+    "-E9yxpJOWmuqV4Hq7I86-2": {
+      "buttonText": "Published",
+      "-E9yxpJOWmuqV4Hq7I86-5": {
+        "buttonText": "PD at publication + 50 yrs (s.12)"
+      }
+    }
+  }
+}

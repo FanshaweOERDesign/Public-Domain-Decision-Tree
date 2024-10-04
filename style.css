@@ -1,0 +1,172 @@
+:root {
+    --primary-color: rgb(55, 55, 131);
+    --secondary-color: rgb(22, 66, 46);
+    --background-color: rgb(224, 231, 238);
+    --result-background-color: rgb(183, 213, 204);
+}
+
+#app, #tree {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 50px;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5em;
+}
+
+
+code {
+    font-size: 1.2em;
+}
+
+.question, .result {
+    
+    opacity: 0;
+    padding: 20px;
+    border-radius: 5px;
+    width: 400px;
+    font-family:Arial, Helvetica, sans-serif;
+    animation: fadeIn 1s forwards;
+}
+
+.question{
+    display: flex;
+    background-color: var(--background-color);
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.result {
+    background-color: var(--result-background-color);
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+.connector {
+    background-color: var(--background-color);
+    min-width: 20px;
+    min-height: 30px;
+    animation: fadeIn 1s forwards;
+    
+}
+
+.remove {
+    display: none;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    background-color: rgb(55, 55, 131);
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:disabled, button:hover {
+    background-color: rgb(22, 66, 46);
+    color: white;
+    cursor: default;
+}
+
+/* tree styles */
+.tree {
+    --spacing: 1.5rem;
+    --radius: 10px;
+  }
+  
+  .tree li {
+    display: block;
+    position: relative;
+    padding-left: calc(2 * var(--spacing) - var(--radius) - 2px);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .tree ul {
+    margin-left: calc(var(--radius) - var(--spacing));
+    padding-left: 0;
+  }
+  
+  .tree ul li {
+    border-left: 2px solid #ddd;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0.5em;
+  }
+  
+  .tree ul li:last-child {
+    border-color: transparent;
+  }
+  
+  .tree ul li::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: calc(var(--spacing) / -2);
+    left: -2px;
+    width: calc(var(--spacing) + 2px);
+    height: calc(var(--spacing) + 1px);
+    border: solid #dddddd;
+    border-width: 0 0 2px 2px;
+    transform: translateY(-0.2em); 
+  }
+
+  .tree ul li.leaf::before {
+    left: -14px;
+  }
+  
+  .tree summary {
+    display: block;
+    cursor: pointer;
+  }
+  
+  .tree summary::marker,
+  .tree summary::-webkit-details-marker {
+    display: none;
+  }
+  
+  .tree summary:focus {
+    outline: none;
+  }
+  
+  .tree summary:focus-visible {
+    outline: 1px dotted #000;
+  }
+  
+  .tree li::after,
+  .tree summary::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: calc(var(--spacing) / 2 - var(--radius));
+    left: calc(var(--spacing) - var(--radius) - 1px);
+    width: calc(2 * var(--radius));
+    height: calc(2 * var(--radius));
+    border-radius: 50%;
+    background: var(--result-background-color);
+    transform: translateY(-0.2em);
+  }
+  
+  .tree summary::before {
+    z-index: 1;
+    background: #696 url('images/expand-collapse.svg') 0 0;
+  }
+  
+  .tree details[open] > summary::before {
+    background-position: calc(-2 * var(--radius)) 0;
+  }

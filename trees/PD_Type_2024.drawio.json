@@ -1,0 +1,28 @@
+{
+  "text": "Type of Work",
+  "isRoot": true,
+  "a2fMi7_jymq33SKWeePz-3": {
+    "buttonText": "Performer's Performance",
+    "subtree": "Performance"
+  },
+  "a2fMi7_jymq33SKWeePz-4": {
+    "buttonText": "Sound Recording",
+    "subtree": "Sound"
+  },
+  "a2fMi7_jymq33SKWeePz-2": {
+    "buttonText": "Cinematographic work",
+    "subtree": "Cinema"
+  },
+  "a2fMi7_jymq33SKWeePz-0": {
+    "buttonText": "Literary, Dramatic, Musical or Artistic work",
+    "subtree": "Literary"
+  },
+  "a2fMi7_jymq33SKWeePz-1": {
+    "buttonText": "Photograph",
+    "subtree": "Photo"
+  },
+  "a2fMi7_jymq33SKWeePz-5": {
+    "buttonText": "Broadcast (Communication Signal)",
+    "subtree": "Broadcast"
+  }
+}

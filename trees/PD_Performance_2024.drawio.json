@@ -1,0 +1,42 @@
+{
+  "text": "Performer's Performance",
+  "a9Ct5knDMJd3McJAFJxa-3": {
+    "buttonText": "Fixed 1 before 01 Jan 1970 1. Under s.23(1), the fixation of a performer's performance is in a sound recording.",
+    "a9Ct5knDMJd3McJAFJxa-8": {
+      "buttonText": "Published after fixation +50 yrs",
+      "a9Ct5knDMJd3McJAFJxa-11": {
+        "buttonText": "PD at fixation +50 yrs (old s.23(1))"
+      }
+    },
+    "a9Ct5knDMJd3McJAFJxa-4": {
+      "buttonText": "Published before fixation +50 yrs",
+      "a9Ct5knDMJd3McJAFJxa-9": {
+        "buttonText": "Published on or after 01 Jan 1970",
+        "a9Ct5knDMJd3McJAFJxa-10": {
+          "buttonText": "PD at earlier of pub +70 yrs or fixation +100 yrs (old s.23(1))"
+        }
+      },
+      "a9Ct5knDMJd3McJAFJxa-5": {
+        "buttonText": "Published before 01 Jan 1970",
+        "a9Ct5knDMJd3McJAFJxa-6": {
+          "buttonText": "PD at publication +50 yrs (old s.23(1))"
+        }
+      }
+    }
+  },
+  "a9Ct5knDMJd3McJAFJxa-12": {
+    "buttonText": "Fixed 1 on or after 01 Jan 1970 1. Under s.23(1), the fixation of a performer's performance is in a sound recording.",
+    "a9Ct5knDMJd3McJAFJxa-14": {
+      "buttonText": "Published after fixation +70 yrs",
+      "a9Ct5knDMJd3McJAFJxa-16": {
+        "buttonText": "PD at fixation +70 yrs (s.23(1))"
+      }
+    },
+    "a9Ct5knDMJd3McJAFJxa-13": {
+      "buttonText": "Published before fixation +70 yrs",
+      "a9Ct5knDMJd3McJAFJxa-15": {
+        "buttonText": "PD at earlier of pub +75 yrs or fixation +100 yrs (s.23(1))"
+      }
+    }
+  }
+}

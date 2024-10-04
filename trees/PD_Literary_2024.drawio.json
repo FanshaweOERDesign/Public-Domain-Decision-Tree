@@ -1,0 +1,348 @@
+{
+  "text": "Literary, Dramatic, Musical or Artistic Work",
+  "-E9yxpJOWmuqV4Hq7I86-11": {
+    "buttonText": "Individual Author",
+    "-E9yxpJOWmuqV4Hq7I86-14": {
+      "buttonText": "Pseudonymous or Anonymous",
+      "-E9yxpJOWmuqV4Hq7I86-22": {
+        "buttonText": "Commonly Known",
+        "pDphXHKUyIFkxVoDHAir-0": {
+          "buttonText": "Death before 31 Dec 1971",
+          "pDphXHKUyIFkxVoDHAir-1": {
+            "buttonText": "PD (death +50 yrs) (old s. 6.1)"
+          }
+        },
+        "pDphXHKUyIFkxVoDHAir-2": {
+          "buttonText": "Death on or after 31 Dec 1971",
+          "pDphXHKUyIFkxVoDHAir-3": {
+            "buttonText": "PD at death +70 yrs (s. 6)"
+          }
+        }
+      },
+      "-E9yxpJOWmuqV4Hq7I86-23": {
+        "buttonText": "NOT Commonly Known",
+        "-E9yxpJOWmuqV4Hq7I86-84": {
+          "buttonText": "Created before 01 Jan 1949",
+          "-E9yxpJOWmuqV4Hq7I86-138": {
+            "buttonText": "Published",
+            "pDphXHKUyIFkxVoDHAir-27": {
+              "buttonText": "Published before 01 Jan 1970",
+              "pDphXHKUyIFkxVoDHAir-28": {
+                "buttonText": "PD at earlier of: pub +50 yrs or creation +75 yrs (old s. 6.1)"
+              }
+            },
+            "pDphXHKUyIFkxVoDHAir-33": {
+              "buttonText": "Published on or after 01 Jan 1970",
+              "-E9yxpJOWmuqV4Hq7I86-130": {
+                "buttonText": "PD at creation +75 yrs (s. 6.1(1))"
+              }
+            }
+          },
+          "pDphXHKUyIFkxVoDHAir-36": {
+            "buttonText": "Unpublished",
+            "pDphXHKUyIFkxVoDHAir-41": {
+              "buttonText": "PD at creation +75 yrs (s. 6.1(1))"
+            }
+          }
+        },
+        "-E9yxpJOWmuqV4Hq7I86-85": {
+          "buttonText": "Created on or after 01 Jan 1949",
+          "-E9yxpJOWmuqV4Hq7I86-139": {
+            "buttonText": "Unpublished",
+            "pDphXHKUyIFkxVoDHAir-42": {
+              "buttonText": "PD at creation +75 yrs (s. 6.1(1))"
+            }
+          },
+          "pDphXHKUyIFkxVoDHAir-39": {
+            "buttonText": "Published",
+            "AivGRB2IzG2qxDA_QIcS-0": {
+              "buttonText": "PD at earlier of: pub +75 yrs or creation +100 yrs (s. 6.1(1))"
+            }
+          }
+        }
+      }
+    },
+    "-E9yxpJOWmuqV4Hq7I86-13": {
+      "buttonText": "NOT Pseudonymous or Anonymous",
+      "-E9yxpJOWmuqV4Hq7I86-43": {
+        "buttonText": "Author not currently living",
+        "Q42dRStr0lUA3v2r5QyF-1": {
+          "buttonText": "Literary, dramatic, or musical work, or an engraving",
+          "-E9yxpJOWmuqV4Hq7I86-115": {
+            "buttonText": "Not published, performed or communicated",
+            "Q42dRStr0lUA3v2r5QyF-22": {
+              "buttonText": "Death before 01 Jan 1949",
+              "Q42dRStr0lUA3v2r5QyF-23": {
+                "buttonText": "PD on 01 Jan 2004 (old s. 7(4))"
+              }
+            },
+            "-E9yxpJOWmuqV4Hq7I86-117": {
+              "buttonText": "Death on or after 01 Jan 1949",
+              "pDphXHKUyIFkxVoDHAir-6": {
+                "buttonText": "Death after 31 Dec 1998",
+                "pDphXHKUyIFkxVoDHAir-19": {
+                  "buttonText": "PD at death +70 yrs (s. 7(3))"
+                }
+              },
+              "pDphXHKUyIFkxVoDHAir-5": {
+                "buttonText": "Death on or before 31 Dec 1998",
+                "pDphXHKUyIFkxVoDHAir-9": {
+                  "buttonText": "Death on or before 31 Dec 1978",
+                  "pDphXHKUyIFkxVoDHAir-11": {
+                    "buttonText": "PD on 01 Jan 2049 (s. 7(3))"
+                  }
+                },
+                "pDphXHKUyIFkxVoDHAir-10": {
+                  "buttonText": "Death after 31 Dec 1978",
+                  "pDphXHKUyIFkxVoDHAir-12": {
+                    "buttonText": "PD at death +70 yrs (s. 7(3))"
+                  }
+                }
+              }
+            }
+          },
+          "Q42dRStr0lUA3v2r5QyF-8": {
+            "buttonText": "Published, performed or communicated",
+            "Q42dRStr0lUA3v2r5QyF-13": {
+              "buttonText": "First pub, perf or comm after death and after 31 Dec 1998",
+              "Q42dRStr0lUA3v2r5QyF-16": {
+                "buttonText": "Death on or after 31 Dec 1971",
+                "-E9yxpJOWmuqV4Hq7I86-118": {
+                  "buttonText": "PD at death +70 yrs (s. 6)"
+                }
+              },
+              "Q42dRStr0lUA3v2r5QyF-15": {
+                "buttonText": "Death before 31 Dec 1971",
+                "-E9yxpJOWmuqV4Hq7I86-116": {
+                  "buttonText": "PD (death +50 yrs) (old s. 6)"
+                }
+              }
+            },
+            "Q42dRStr0lUA3v2r5QyF-10": {
+              "buttonText": "First pub, perf or comm after death but on or before 31 Dec 1998",
+              "-E9yxpJOWmuqV4Hq7I86-103": {
+                "buttonText": "PD at later of pub, perf, or comm +50 yrs and death +70 yrs (s. 7(1))"
+              }
+            },
+            "uLK0RD8fJh4L8JN665KE-0": {
+              "buttonText": "First pub, perf or comm before death",
+              "uLK0RD8fJh4L8JN665KE-2": {
+                "buttonText": "Death on or after 31 Dec 1971",
+                "uLK0RD8fJh4L8JN665KE-4": {
+                  "buttonText": "PD at death +70 yrs (s. 6)"
+                }
+              },
+              "uLK0RD8fJh4L8JN665KE-1": {
+                "buttonText": "Death before 31 Dec 1971",
+                "uLK0RD8fJh4L8JN665KE-3": {
+                  "buttonText": "PD (death +50 yrs) (old s. 6)"
+                }
+              }
+            }
+          }
+        },
+        "Q42dRStr0lUA3v2r5QyF-0": {
+          "buttonText": "Artistic Work (other than an engraving)",
+          "-E9yxpJOWmuqV4Hq7I86-46": {
+            "buttonText": "Death before 31 Dec 1971",
+            "-E9yxpJOWmuqV4Hq7I86-48": {
+              "buttonText": "PD (death +50 yrs) (old s. 6)"
+            }
+          },
+          "-E9yxpJOWmuqV4Hq7I86-47": {
+            "buttonText": "Death on or after 31 Dec 1971",
+            "-E9yxpJOWmuqV4Hq7I86-49": {
+              "buttonText": "PD at death +70 yrs (s. 6)"
+            }
+          }
+        }
+      },
+      "-E9yxpJOWmuqV4Hq7I86-41": {
+        "buttonText": "Author currently living",
+        "-E9yxpJOWmuqV4Hq7I86-42": {
+          "buttonText": "PD at death +70 yrs (s. 6)"
+        }
+      }
+    }
+  },
+  "-E9yxpJOWmuqV4Hq7I86-12": {
+    "buttonText": "Joint Authors",
+    "-E9yxpJOWmuqV4Hq7I86-16": {
+      "buttonText": "Pseudonymous or Anonymous",
+      "-E9yxpJOWmuqV4Hq7I86-25": {
+        "buttonText": "NOT Commonly Known",
+        "-E9yxpJOWmuqV4Hq7I86-101": {
+          "buttonText": "Created before 01 Jan 1949",
+          "-E9yxpJOWmuqV4Hq7I86-151": {
+            "buttonText": "Published",
+            "pDphXHKUyIFkxVoDHAir-153": {
+              "buttonText": "Published on or after 01 Jan 1970",
+              "pDphXHKUyIFkxVoDHAir-158": {
+                "buttonText": "PD at creation +75 yrs (s. 6.2(1))"
+              }
+            },
+            "pDphXHKUyIFkxVoDHAir-152": {
+              "buttonText": "Published before 01 Jan 1970",
+              "pDphXHKUyIFkxVoDHAir-155": {
+                "buttonText": "PD at earlier of: pub +50 yrs or creation +75 yrs (old s. 6.2))"
+              }
+            }
+          },
+          "-E9yxpJOWmuqV4Hq7I86-152": {
+            "buttonText": "Unpublished",
+            "pDphXHKUyIFkxVoDHAir-160": {
+              "buttonText": "PD at creation +75 yrs (s. 6.2(1))"
+            }
+          }
+        },
+        "-E9yxpJOWmuqV4Hq7I86-102": {
+          "buttonText": "Created on or after 01 Jan 1949",
+          "pDphXHKUyIFkxVoDHAir-164": {
+            "buttonText": "Unpublished",
+            "-E9yxpJOWmuqV4Hq7I86-154": {
+              "buttonText": "PD at creation +75 yrs (s. 6.2(1))"
+            }
+          },
+          "pDphXHKUyIFkxVoDHAir-163": {
+            "buttonText": "Published",
+            "-E9yxpJOWmuqV4Hq7I86-153": {
+              "buttonText": "PD at earlier of: pub +75 yrs or creation +100 yrs (s. 6.2(1))"
+            }
+          }
+        }
+      },
+      "-E9yxpJOWmuqV4Hq7I86-24": {
+        "buttonText": "Commonly Known",
+        "pDphXHKUyIFkxVoDHAir-8": {
+          "buttonText": "Last death on or after 31 Dec 1971",
+          "pDphXHKUyIFkxVoDHAir-144": {
+            "buttonText": "PD at last death +70 yrs (s. 6.2(2))"
+          }
+        },
+        "pDphXHKUyIFkxVoDHAir-7": {
+          "buttonText": "Last death before 31 Dec 1971",
+          "pDphXHKUyIFkxVoDHAir-138": {
+            "buttonText": "PD (last death +50 yrs) (old s. 6.2)"
+          }
+        }
+      }
+    },
+    "-E9yxpJOWmuqV4Hq7I86-15": {
+      "buttonText": "NOT Pseudonymous or Anonymous",
+      "pDphXHKUyIFkxVoDHAir-47": {
+        "buttonText": "Any author currently living",
+        "pDphXHKUyIFkxVoDHAir-143": {
+          "buttonText": "PD at last death +70 yrs (s. 6.2(2))"
+        }
+      },
+      "pDphXHKUyIFkxVoDHAir-48": {
+        "buttonText": "No author currently living",
+        "pDphXHKUyIFkxVoDHAir-64": {
+          "buttonText": "Literary, dramatic, or musical work, or an engraving",
+          "pDphXHKUyIFkxVoDHAir-66": {
+            "buttonText": "Published, performed or communicated",
+            "pDphXHKUyIFkxVoDHAir-113": {
+              "buttonText": "First pub, perf or comm after last death and after 31 Dec 1998",
+              "-E9yxpJOWmuqV4Hq7I86-147": {
+                "buttonText": "Last Death on or after 31 Dec 1971",
+                "-E9yxpJOWmuqV4Hq7I86-150": {
+                  "buttonText": "PD at last death +70 yrs (s. 6.2(2))"
+                }
+              },
+              "-E9yxpJOWmuqV4Hq7I86-146": {
+                "buttonText": "Last death before 31 Dec 1971",
+                "-E9yxpJOWmuqV4Hq7I86-149": {
+                  "buttonText": "PD (last death +50 yrs) (old s. 6.2(2))"
+                }
+              }
+            },
+            "NegJKOf9KbaIEpDqSzxF-0": {
+              "buttonText": "First pub, perf or comm before last death",
+              "NegJKOf9KbaIEpDqSzxF-2": {
+                "buttonText": "Last Death on or after 31 Dec 1971",
+                "NegJKOf9KbaIEpDqSzxF-4": {
+                  "buttonText": "PD at last death +70 yrs (s. 9)"
+                }
+              },
+              "NegJKOf9KbaIEpDqSzxF-1": {
+                "buttonText": "Last Death before 31 Dec 1971",
+                "NegJKOf9KbaIEpDqSzxF-3": {
+                  "buttonText": "PD (last death +50 yrs) (old s. 9(1))"
+                }
+              }
+            },
+            "pDphXHKUyIFkxVoDHAir-68": {
+              "buttonText": "First pub, perf or comm after last death but on or before 31 Dec 1998",
+              "pDphXHKUyIFkxVoDHAir-69": {
+                "buttonText": "PD at later of pub, perf, or comm +50 yrs and last death +70 yrs (s. 7(1))"
+              }
+            }
+          },
+          "pDphXHKUyIFkxVoDHAir-67": {
+            "buttonText": "Not published, performed or communicated",
+            "pDphXHKUyIFkxVoDHAir-77": {
+              "buttonText": "Last death on or after 01 Jan 1949",
+              "pDphXHKUyIFkxVoDHAir-86": {
+                "buttonText": "Last death after 31 Dec 1998",
+                "pDphXHKUyIFkxVoDHAir-133": {
+                  "buttonText": "PD at last death +70 yrs (s. 7(3))"
+                }
+              },
+              "pDphXHKUyIFkxVoDHAir-85": {
+                "buttonText": "Last death on or before 31 Dec 1998",
+                "pDphXHKUyIFkxVoDHAir-124": {
+                  "buttonText": "Last death after 31 Dec 1978",
+                  "pDphXHKUyIFkxVoDHAir-126": {
+                    "buttonText": "PD at last death +70 yrs (s. 7(3))"
+                  }
+                },
+                "pDphXHKUyIFkxVoDHAir-88": {
+                  "buttonText": "Last death on or before 31 Dec 1978",
+                  "pDphXHKUyIFkxVoDHAir-125": {
+                    "buttonText": "PD on 01 Jan 2049 (s. 7(3))"
+                  }
+                }
+              }
+            },
+            "pDphXHKUyIFkxVoDHAir-76": {
+              "buttonText": "Last death before 01 Jan 1949",
+              "pDphXHKUyIFkxVoDHAir-79": {
+                "buttonText": "PD on 01 Jan 2004 (old s. 7(4))"
+              }
+            }
+          }
+        },
+        "pDphXHKUyIFkxVoDHAir-55": {
+          "buttonText": "Artistic Work (other than an engraving)",
+          "-E9yxpJOWmuqV4Hq7I86-93": {
+            "buttonText": "Last Death on or after 31 Dec 1971",
+            "pDphXHKUyIFkxVoDHAir-62": {
+              "buttonText": "PD at last death +70 yrs (s. 9)"
+            }
+          },
+          "-E9yxpJOWmuqV4Hq7I86-92": {
+            "buttonText": "Last Death before 31 Dec 1971",
+            "-E9yxpJOWmuqV4Hq7I86-96": {
+              "buttonText": "PD (last death +50 yrs) (old s. 9(1))"
+            }
+          }
+        }
+      }
+    }
+  },
+  "-E9yxpJOWmuqV4Hq7I86-1": {
+    "buttonText": "Created by/for Crown",
+    "-E9yxpJOWmuqV4Hq7I86-3": {
+      "buttonText": "Unpublished",
+      "-E9yxpJOWmuqV4Hq7I86-7": {
+        "buttonText": "NOT in PD (s. 12)"
+      }
+    },
+    "-E9yxpJOWmuqV4Hq7I86-2": {
+      "buttonText": "Published",
+      "-E9yxpJOWmuqV4Hq7I86-5": {
+        "buttonText": "PD at publication + 50 yrs (s.12)"
+      }
+    }
+  }
+}
