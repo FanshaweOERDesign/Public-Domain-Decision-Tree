@@ -101,25 +101,24 @@
       
       const details = document.createElement('details');
       if (node.isRoot){
-        list.className="tree";
         details.open = true;
       }
       const text = document.createElement('summary');
       text.innerHTML = node.buttonText || node.text;
-
-      list.appendChild(item).appendChild(details).appendChild(text);
-      tree.appendChild(list);
+      details.appendChild(text)
+      item.appendChild(details).appendChild(list);
+      tree.appendChild(item);
 
       for (const child of children){
 
         
 
         if (node[child].subtree){
-          buildTree(details, treeMap[node[child].subtree]);
+          buildTree(list, treeMap[node[child].subtree]);
         }
         else{
 
-          buildTree(details, node[child]);
+          buildTree(list, node[child]);
         }
         
       }

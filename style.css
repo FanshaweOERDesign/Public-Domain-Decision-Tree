@@ -5,7 +5,7 @@
     --result-background-color: rgb(183, 213, 204);
 }
 
-#app, #tree {
+#app, #tree-view {
     display: flex;
     justify-content: center;
     align-items: center;
