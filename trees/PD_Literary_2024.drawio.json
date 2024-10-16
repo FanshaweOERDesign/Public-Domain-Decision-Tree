@@ -1,348 +1,424 @@
 {
-  "text": "Literary, Dramatic, Musical or Artistic Work",
-  "-910-E9yxpJOWmuqV4Hq7I86-1": {
-    "buttonText": "Created by/for Crown",
-    "-910-E9yxpJOWmuqV4Hq7I86-2": {
-      "buttonText": "Published",
-      "-910-E9yxpJOWmuqV4Hq7I86-5": {
-        "buttonText": "Public Domain at publication + 50 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-12.html'>(s.12)</a>"
-      }
-    },
-    "-860-E9yxpJOWmuqV4Hq7I86-3": {
-      "buttonText": "Unpublished",
-      "-860-E9yxpJOWmuqV4Hq7I86-7": {
-        "buttonText": "NOT in Public Domain <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-12.html'>(s. 12)</a>"
-      }
-    }
-  },
-  "-800-E9yxpJOWmuqV4Hq7I86-11": {
-    "buttonText": "Created by an Individual Author",
-    "-800-E9yxpJOWmuqV4Hq7I86-13": {
-      "buttonText": "Author is NOT Pseudonymous or Anonymous",
-      "-800-E9yxpJOWmuqV4Hq7I86-41": {
-        "buttonText": "Author is currently living",
-        "-800-E9yxpJOWmuqV4Hq7I86-42": {
-          "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html'>(s. 6)</a>"
-        }
-      },
-      "-750-E9yxpJOWmuqV4Hq7I86-43": {
-        "buttonText": "Author is NOT currently living",
-        "-750Q42dRStr0lUA3v2r5QyF-0": {
-          "buttonText": "Artistic Work (other than an engraving)",
-          "-750-E9yxpJOWmuqV4Hq7I86-46": {
-            "buttonText": "Author's death was before 01 Jan 1972",
-            "-750-E9yxpJOWmuqV4Hq7I86-48": {
-              "buttonText": "Public Domain (death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6-20021231.html'>(old s. 6)</a>"
-            }
-          },
-          "-700-E9yxpJOWmuqV4Hq7I86-47": {
-            "buttonText": "Death on or after 01 Jan 1972",
-            "-700-E9yxpJOWmuqV4Hq7I86-49": {
-              "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html'>(s. 6)</a>"
-            }
-          }
+    "text": "Who created the work?",
+    "buttonText":"Literary, Dramatic, Musical or Artistic Work",
+    "-910-E9yxpJOWmuqV4Hq7I86-1": {
+        "buttonText": "Created by/for Crown",
+        "-910-E9yxpJOWmuqV4Hq7I86-2": {
+            "buttonText": "Published",
+            "-910-E9yxpJOWmuqV4Hq7I86-5": {
+                "buttonText": "Public Domain at publication +50 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-12.html'>(s.12)</a>"
+            },
+            "text": "Guidance"
         },
-        "-650Q42dRStr0lUA3v2r5QyF-1": {
-          "buttonText": "Literary, dramatic, or musical work, or an engraving",
-          "-650Q42dRStr0lUA3v2r5QyF-8": {
-            "buttonText": "Published, performed, or communicated",
-            "-650uLK0RD8fJh4L8JN665KE-0": {
-              "buttonText": "First publication, performance, or communication before death",
-              "-650uLK0RD8fJh4L8JN665KE-1": {
-                "buttonText": "Death before 01 Jan 1972",
-                "-650uLK0RD8fJh4L8JN665KE-3": {
-                  "buttonText": "Public Domain (death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6-20021231.html'>(old s. 6)</a>"
-                }
-              },
-              "-600uLK0RD8fJh4L8JN665KE-2": {
-                "buttonText": "Death on or after 01 Jan 1972",
-                "-600uLK0RD8fJh4L8JN665KE-4": {
-                  "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html'>(s. 6)</a>"
-                }
-              }
+        "-860-E9yxpJOWmuqV4Hq7I86-3": {
+            "buttonText": "Unpublished",
+            "-860-E9yxpJOWmuqV4Hq7I86-7": {
+                "buttonText": "NOT in the Public Domain <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-12.html'>(s. 12)</a>"
             },
-            "-550Q42dRStr0lUA3v2r5QyF-10": {
-              "buttonText": "First publication, performance, or communication after death but on or before 31 Dec 1998",
-              "-550-E9yxpJOWmuqV4Hq7I86-103": {
-                "buttonText": "Public Domain at later of publication, performance, or communication +50 years and death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(1))</a>"
-              }
-            },
-            "-480Q42dRStr0lUA3v2r5QyF-13": {
-              "buttonText": "First publication, performance, or communication after death and after 31 Dec 1998",
-              "-300pDphXHKUyIFkxVoDHAir-10": {
-                "buttonText": "Death after 31 Dec 1978",
-                "-300pDphXHKUyIFkxVoDHAir-12": {
-                  "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
-                }
-              },
-              "-350pDphXHKUyIFkxVoDHAir-9": {
-                "buttonText": "Death on or before 31 Dec 1978",
-                "-350pDphXHKUyIFkxVoDHAir-11": {
-                  "buttonText": "Public Domain on 01 Jan 2049 <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
-                }
-              }
-            }
-          },
-          "-400-E9yxpJOWmuqV4Hq7I86-115": {
-            "buttonText": "Not published, performed, or communicated",
-            "-400Q42dRStr0lUA3v2r5QyF-22": {
-              "buttonText": "Death before 01 Jan 1949",
-              "-400Q42dRStr0lUA3v2r5QyF-23": {
-                "buttonText": "Public Domain on 01 Jan 2004 <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7-20021231.html'>(old s. 7(4))</a>"
-              }
-            },
-            "-350-E9yxpJOWmuqV4Hq7I86-117": {
-              "buttonText": "Death on or after 01 Jan 1949",
-              "-350pDphXHKUyIFkxVoDHAir-5": {
-                "buttonText": "Death on or before 31 Dec 1998",
-                "-350pDphXHKUyIFkxVoDHAir-9": {
-                  "buttonText": "Death on or before 31 Dec 1978",
-                  "-350pDphXHKUyIFkxVoDHAir-11": {
-                    "buttonText": "Public Domain on 01 Jan 2049 <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
-                  }
+            "text": "Guidance"
+        },
+        "text": "Is the work published?"
+    },
+    "-800-E9yxpJOWmuqV4Hq7I86-11": {
+        "buttonText": "Created by an Individual Author",
+        "-800-E9yxpJOWmuqV4Hq7I86-13": {
+            "buttonText": "Author is NOT Pseudonymous or Anonymous",
+            "-800-E9yxpJOWmuqV4Hq7I86-41": {
+                "buttonText": "Author is currently living",
+                "-800-E9yxpJOWmuqV4Hq7I86-42": {
+                    "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html'>(s. 6)</a>"
                 },
-                "-300pDphXHKUyIFkxVoDHAir-10": {
-                  "buttonText": "Death after 31 Dec 1978",
-                  "-300pDphXHKUyIFkxVoDHAir-12": {
-                    "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
-                  }
-                }
-              },
-              "-250pDphXHKUyIFkxVoDHAir-6": {
-                "buttonText": "Death after 31 Dec 1998",
-                "-250pDphXHKUyIFkxVoDHAir-19": {
-                  "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "-200-E9yxpJOWmuqV4Hq7I86-14": {
-      "buttonText": "Author is Pseudonymous or Anonymous",
-      "-200-E9yxpJOWmuqV4Hq7I86-22": {
-        "buttonText": "Author is Commonly Known",
-        "-200pDphXHKUyIFkxVoDHAir-0": {
-          "buttonText": "Death before 01 Jan 1972",
-          "-200pDphXHKUyIFkxVoDHAir-1": {
-            "buttonText": "Public Domain (death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1-20021231.html'>(old s. 6.1)</a>"
-          }
-        },
-        "-150pDphXHKUyIFkxVoDHAir-2": {
-          "buttonText": "Death on or after 01 Jan 1972",
-          "-150pDphXHKUyIFkxVoDHAir-3": {
-            "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html'>(s. 6)</a>"
-          }
-        }
-      },
-      "-100-E9yxpJOWmuqV4Hq7I86-23": {
-        "buttonText": "Author is NOT Commonly Known",
-        "-100-E9yxpJOWmuqV4Hq7I86-84": {
-          "buttonText": "Created before 01 Jan 1949",
-          "-100-E9yxpJOWmuqV4Hq7I86-138": {
-            "buttonText": "Published",
-            "-100pDphXHKUyIFkxVoDHAir-27": {
-              "buttonText": "Published before 01 Jan 1970",
-              "-100pDphXHKUyIFkxVoDHAir-28": {
-                "buttonText": "Public Domain at earlier of: publication +50 years or creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1-20021231.html'>(old s. 6.1)</a>"
-              }
+                "text": "Guidance"
             },
-            "-50pDphXHKUyIFkxVoDHAir-33": {
-              "buttonText": "Published on or after 01 Jan 1970",
-              "-50-E9yxpJOWmuqV4Hq7I86-130": {
-                "buttonText": "Public Domain at creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1.html'>(s. 6.1(1))</a>"
-              }
-            }
-          },
-          "pDphXHKUyIFkxVoDHAir-36": {
-            "buttonText": "Unpublished",
-            "pDphXHKUyIFkxVoDHAir-41": {
-              "buttonText": "Public Domain at creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1.html'>(s. 6.1(1))</a>"
-            }
-          }
-        },
-        "50-E9yxpJOWmuqV4Hq7I86-85": {
-          "buttonText": "Created on or after 01 Jan 1949",
-          "50pDphXHKUyIFkxVoDHAir-39": {
-            "buttonText": "Published",
-            "50AivGRB2IzG2qxDA_QIcS-0": {
-              "buttonText": "Public Domain at earlier of: publication +75 years or creation +100 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1.html'>(s. 6.1(1))</a>"
-            }
-          },
-          "100-E9yxpJOWmuqV4Hq7I86-139": {
-            "buttonText": "Unpublished",
-            "100pDphXHKUyIFkxVoDHAir-42": {
-              "buttonText": "Public Domain at creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1.html'>(s. 6.1(1))</a>"
-            }
-          }
-        }
-      }
-    }
-  },
-  "160-E9yxpJOWmuqV4Hq7I86-12": {
-    "buttonText": "Created by Joint Authors",
-    "160-E9yxpJOWmuqV4Hq7I86-15": {
-      "buttonText": "Authors are NOT Pseudonymous or Anonymous",
-      "160pDphXHKUyIFkxVoDHAir-47": {
-        "buttonText": "Any author currently living",
-        "160pDphXHKUyIFkxVoDHAir-143": {
-          "buttonText": "Public Domain at last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2.html'>(s. 6.2(2))</a>"
-        }
-      },
-      "210pDphXHKUyIFkxVoDHAir-48": {
-        "buttonText": "No author is currently living",
-        "210pDphXHKUyIFkxVoDHAir-55": {
-          "buttonText": "Artistic Work (other than an engraving)",
-          "210-E9yxpJOWmuqV4Hq7I86-92": {
-            "buttonText": "Last Death before 01 Jan 1972",
-            "210-E9yxpJOWmuqV4Hq7I86-96": {
-              "buttonText": "Public Domain (last death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-9-20200701.html'> (old s. 9(1))</a>"
-            }
-          },
-          "260-E9yxpJOWmuqV4Hq7I86-93": {
-            "buttonText": "Last Death on or after 01 Jan 1972",
-            "260pDphXHKUyIFkxVoDHAir-62": {
-              "buttonText": "Public Domain at last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-9.html'>(s. 9)</a>"
-            }
-          }
-        },
-        "310pDphXHKUyIFkxVoDHAir-64": {
-          "buttonText": "Literary, dramatic, or musical work, or an engraving",
-          "310pDphXHKUyIFkxVoDHAir-66": {
-            "buttonText": "Published, performed or communicated",
-            "310NegJKOf9KbaIEpDqSzxF-0": {
-              "buttonText": "First publication, performance, or communication before last death",
-              "360NegJKOf9KbaIEpDqSzxF-2": {
-                "buttonText": "Last Death on or after 01 Jan 1972",
-                "360NegJKOf9KbaIEpDqSzxF-4": {
-                  "buttonText": "Public Domain at last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-9.html'>(s. 9)</a>"
-                }
-              },
-              "310NegJKOf9KbaIEpDqSzxF-1": {
-                "buttonText": "Last Death before 01 Jan 1972",
-                "310NegJKOf9KbaIEpDqSzxF-3": {
-                  "buttonText": "Public Domain (last death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-9-20200701.html'>(old s. 9(1))</a>"
-                }
-              }
-            },
-            "400pDphXHKUyIFkxVoDHAir-68": {
-              "buttonText": "First publication, performance, or communication after last death but on or before 31 Dec 1998",
-              "410pDphXHKUyIFkxVoDHAir-69": {
-                "buttonText": "Public Domain at later of publication, performance, or communication +50 years and last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(1))</a>"
-              }
-            },
-            "460pDphXHKUyIFkxVoDHAir-113": {
-              "buttonText": "First publication, performance or communication after last death and after 31 Dec 1998",
-              "610pDphXHKUyIFkxVoDHAir-88": {
-                "buttonText": "Last death on or before 31 Dec 1978",
-                "610pDphXHKUyIFkxVoDHAir-125": {
-                  "buttonText": "Public Domain on 01 Jan 2049 <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
-                }
-              },
-              "660pDphXHKUyIFkxVoDHAir-124": {
-                "buttonText": "Last death after 31 Dec 1978",
-                "660pDphXHKUyIFkxVoDHAir-126": {
-                  "buttonText": "Public Domain at last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
-                }
-              }
-            }
-          },
-          "560pDphXHKUyIFkxVoDHAir-67": {
-            "buttonText": "Not published, performed or communicated",
-            "560pDphXHKUyIFkxVoDHAir-76": {
-              "buttonText": "Last death before 01 Jan 1949",
-              "560pDphXHKUyIFkxVoDHAir-79": {
-                "buttonText": "Public Domain on 01 Jan 2004 <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7-20021231.html'>(old s. 7(4))</a>"
-              }
-            },
-            "610pDphXHKUyIFkxVoDHAir-77": {
-              "buttonText": "Last death on or after 01 Jan 1949",
-              "610pDphXHKUyIFkxVoDHAir-85": {
-                "buttonText": "Last death on or before 31 Dec 1998",
-                "610pDphXHKUyIFkxVoDHAir-88": {
-                  "buttonText": "Last death on or before 31 Dec 1978",
-                  "610pDphXHKUyIFkxVoDHAir-125": {
-                    "buttonText": "Public Domain on 01 Jan 2049 <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
-                  }
+            "-750-E9yxpJOWmuqV4Hq7I86-43": {
+                "buttonText": "Author is NOT currently living",
+                "-750Q42dRStr0lUA3v2r5QyF-0": {
+                    "buttonText": "Artistic Work (other than an engraving)",
+                    "-750-E9yxpJOWmuqV4Hq7I86-46": {
+                        "buttonText": "Author's death was before 01 January 1972",
+                        "-750-E9yxpJOWmuqV4Hq7I86-48": {
+                            "buttonText": "Public Domain (death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6-20021231.html'>(old s. 6)</a>"
+                        },
+                        "text": "Guidance"
+                    },
+                    "-700-E9yxpJOWmuqV4Hq7I86-47": {
+                        "buttonText": "Death on or after 01 January 1972",
+                        "-700-E9yxpJOWmuqV4Hq7I86-49": {
+                            "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html'>(s. 6)</a>"
+                        },
+                        "text": "Guidance"
+                    },
+                    "text": "When did the author die?"
                 },
-                "660pDphXHKUyIFkxVoDHAir-124": {
-                  "buttonText": "Last death after 31 Dec 1978",
-                  "660pDphXHKUyIFkxVoDHAir-126": {
-                    "buttonText": "Public Domain at last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
-                  }
-                }
-              },
-              "710pDphXHKUyIFkxVoDHAir-86": {
-                "buttonText": "Last death after 31 Dec 1998",
-                "710pDphXHKUyIFkxVoDHAir-133": {
-                  "buttonText": "Public Domain at last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "760-E9yxpJOWmuqV4Hq7I86-16": {
-      "buttonText": "Authors are Pseudonymous or Anonymous",
-      "760-E9yxpJOWmuqV4Hq7I86-24": {
-        "buttonText": "Author is Commonly Known",
-        "760pDphXHKUyIFkxVoDHAir-7": {
-          "buttonText": "Last death before 01 Jan 1972",
-          "760pDphXHKUyIFkxVoDHAir-138": {
-            "buttonText": "Public Domain (last death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2-20200701.html'>(old s. 6.2)</a>"
-          }
-        },
-        "810pDphXHKUyIFkxVoDHAir-8": {
-          "buttonText": "Last death on or after 01 Jan 1972",
-          "810pDphXHKUyIFkxVoDHAir-144": {
-            "buttonText": "Public Domain at last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2.html'>(s. 6.2(2))</a>"
-          }
-        }
-      },
-      "860-E9yxpJOWmuqV4Hq7I86-25": {
-        "buttonText": "Author is NOT Commonly Known",
-        "860-E9yxpJOWmuqV4Hq7I86-101": {
-          "buttonText": "Created before 01 Jan 1949",
-          "860-E9yxpJOWmuqV4Hq7I86-151": {
-            "buttonText": "Published",
-            "860pDphXHKUyIFkxVoDHAir-152": {
-              "buttonText": "Published before 01 Jan 1970",
-              "860pDphXHKUyIFkxVoDHAir-155": {
-                "buttonText": "Public Domain at earlier of: publication +50 years or creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2-20200701.html'>(old s. 6.2))</a>"
-              }
+                "-650Q42dRStr0lUA3v2r5QyF-1": {
+                    "buttonText": "Literary, dramatic, or musical work, or an engraving",
+                    "-650Q42dRStr0lUA3v2r5QyF-8": {
+                        "buttonText": "Published, performed, or communicated",
+                        "-650uLK0RD8fJh4L8JN665KE-0": {
+                            "buttonText": "First publication, performance, or communication before death",
+                            "-650uLK0RD8fJh4L8JN665KE-1": {
+                                "buttonText": "Death before 01 January 1972",
+                                "-650uLK0RD8fJh4L8JN665KE-3": {
+                                    "buttonText": "Public Domain (death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6-20021231.html'>(old s. 6)</a>"
+                                },
+                                "text": "Guidance"
+                            },
+                            "-600uLK0RD8fJh4L8JN665KE-2": {
+                                "buttonText": "Death on or after 01 January 1972",
+                                "-600uLK0RD8fJh4L8JN665KE-4": {
+                                    "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html'>(s. 6)</a>"
+                                },
+                                "text": "Guidance"
+                            },
+                            "text": "When did the author die?"
+                        },
+                        "-550Q42dRStr0lUA3v2r5QyF-10": {
+                            "buttonText": "First publication, performance, or communication after death but on or before 31 Dec 1998",
+                            "-550-E9yxpJOWmuqV4Hq7I86-103": {
+                                "buttonText": "Public Domain at later of publication, performance, or communication +50 years and death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(1))</a>"
+                            },
+                            "text": "Guidance"
+                        },
+                        "-480Q42dRStr0lUA3v2r5QyF-13": {
+                            "buttonText": "First publication, performance, or communication after death and after 31 Dec 1998",
+                            "-300pDphXHKUyIFkxVoDHAir-10": {
+                                "buttonText": "Death after 31 Dec 1978",
+                                "-300pDphXHKUyIFkxVoDHAir-12": {
+                                    "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
+                                },
+                                "text": "Guidance"
+                            },
+                            "-350pDphXHKUyIFkxVoDHAir-9": {
+                                "buttonText": "Death on or before 31 Dec 1978",
+                                "-350pDphXHKUyIFkxVoDHAir-11": {
+                                    "buttonText": "Public Domain on 01 January 2049 <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
+                                },
+                                "text": "Guidance"
+                            },
+                            "text": "When did the author die?"
+                        },
+                        "text": "When was the first publication, peformance, or communication?"
+                    },
+                    "-400-E9yxpJOWmuqV4Hq7I86-115": {
+                        "buttonText": "Not published, performed, or communicated",
+                        "-400Q42dRStr0lUA3v2r5QyF-22": {
+                            "buttonText": "Death before 01 January 1949",
+                            "-400Q42dRStr0lUA3v2r5QyF-23": {
+                                "buttonText": "Public Domain on 01 January 2004 <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7-20021231.html'>(old s. 7(4))</a>"
+                            },
+                            "text": "Guidance"
+                        },
+                        "-350-E9yxpJOWmuqV4Hq7I86-117": {
+                            "buttonText": "Death on or after 01 January 1949",
+                            "-350pDphXHKUyIFkxVoDHAir-5": {
+                                "buttonText": "Death on or before 31 Dec 1998",
+                                "-350pDphXHKUyIFkxVoDHAir-9": {
+                                    "buttonText": "Death on or before 31 Dec 1978",
+                                    "-350pDphXHKUyIFkxVoDHAir-11": {
+                                        "buttonText": "Public Domain on 01 January 2049 <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
+                                    },
+                                    "text": "Guidance"
+                                },
+                                "-300pDphXHKUyIFkxVoDHAir-10": {
+                                    "buttonText": "Death after 31 Dec 1978",
+                                    "-300pDphXHKUyIFkxVoDHAir-12": {
+                                        "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
+                                    },
+                                    "text": "Guidance"
+                                },
+                                "text": "When did the author die?"
+                            },
+                            "-250pDphXHKUyIFkxVoDHAir-6": {
+                                "buttonText": "Death after 31 Dec 1998",
+                                "-250pDphXHKUyIFkxVoDHAir-19": {
+                                    "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
+                                },
+                                "text": "Guidance"
+                            },
+                            "text": "When did the author die?"
+                        },
+                        "text": "When did the author die?"
+                    },
+                    "text": "Was the work published, performed, or communicated?"
+                },
+                "text": "What type of work is it?"
             },
-            "910pDphXHKUyIFkxVoDHAir-153": {
-              "buttonText": "Published on or after 01 Jan 1970",
-              "910pDphXHKUyIFkxVoDHAir-158": {
-                "buttonText": "Public Domain at creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2.html'>(s. 6.2(1))</a>"
-              }
-            }
-          },
-          "960-E9yxpJOWmuqV4Hq7I86-152": {
-            "buttonText": "Unpublished",
-            "960pDphXHKUyIFkxVoDHAir-160": {
-              "buttonText": "Public Domain at creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2.html'>(s. 6.2(1))</a>"
-            }
-          }
+            "text": "Is the author currently living?"
         },
-        "1010-E9yxpJOWmuqV4Hq7I86-102": {
-          "buttonText": "Created on or after 01 Jan 1949",
-          "1010pDphXHKUyIFkxVoDHAir-163": {
-            "buttonText": "Published",
-            "1010-E9yxpJOWmuqV4Hq7I86-153": {
-              "buttonText": "Public Domain at earlier of: publication +75 years or creation +100 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2.html'>(s. 6.2(1))</a>"
-            }
-          },
-          "1060pDphXHKUyIFkxVoDHAir-164": {
-            "buttonText": "Unpublished",
-            "1060-E9yxpJOWmuqV4Hq7I86-154": {
-              "buttonText": "Public Domain at creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2.html'>(s. 6.2(1))</a>"
-            }
-          }
-        }
-      }
+        "-200-E9yxpJOWmuqV4Hq7I86-14": {
+            "buttonText": "Author is Pseudonymous or Anonymous",
+            "-200-E9yxpJOWmuqV4Hq7I86-22": {
+                "buttonText": "Author is  Known",
+                "-200pDphXHKUyIFkxVoDHAir-0": {
+                    "buttonText": "Death before 01 January 1972",
+                    "-200pDphXHKUyIFkxVoDHAir-1": {
+                        "buttonText": "Public Domain (death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1-20021231.html'>(old s. 6.1)</a>"
+                    },
+                    "text": "Guidance"
+                },
+                "-150pDphXHKUyIFkxVoDHAir-2": {
+                    "buttonText": "Death on or after 01 January 1972",
+                    "-150pDphXHKUyIFkxVoDHAir-3": {
+                        "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html'>(s. 6)</a>"
+                    },
+                    "text": "Guidance"
+                },
+                "text": "When did the author die?"
+            },
+            "-100-E9yxpJOWmuqV4Hq7I86-23": {
+                "buttonText": "Author is NOT  Known",
+                "-100-E9yxpJOWmuqV4Hq7I86-84": {
+                    "buttonText": "Created before 01 January 1949",
+                    "-100-E9yxpJOWmuqV4Hq7I86-138": {
+                        "buttonText": "Published",
+                        "-100pDphXHKUyIFkxVoDHAir-27": {
+                            "buttonText": "Published before 01 January 1970",
+                            "-100pDphXHKUyIFkxVoDHAir-28": {
+                                "buttonText": "Public Domain at earlier of: publication +50 years or creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1-20021231.html'>(old s. 6.1)</a>"
+                            },
+                            "text": "Guidance"
+                        },
+                        "-50pDphXHKUyIFkxVoDHAir-33": {
+                            "buttonText": "Published on or after 01 January 1970",
+                            "-50-E9yxpJOWmuqV4Hq7I86-130": {
+                                "buttonText": "Public Domain at creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1.html'>(s. 6.1(1))</a>"
+                            },
+                            "text": "Guidance"
+                        },
+                        "text": "When was the work published?"
+                    },
+                    "pDphXHKUyIFkxVoDHAir-36": {
+                        "buttonText": "Unpublished",
+                        "pDphXHKUyIFkxVoDHAir-41": {
+                            "buttonText": "Public Domain at creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1.html'>(s. 6.1(1))</a>"
+                        },
+                        "text": "Guidance"
+                    },
+                    "text": "Is the work published?"
+                },
+                "50-E9yxpJOWmuqV4Hq7I86-85": {
+                    "buttonText": "Created on or after 01 January 1949",
+                    "50pDphXHKUyIFkxVoDHAir-39": {
+                        "buttonText": "Published",
+                        "50AivGRB2IzG2qxDA_QIcS-0": {
+                            "buttonText": "Public Domain at earlier of: publication +75 years or creation +100 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1.html'>(s. 6.1(1))</a>"
+                        },
+                        "text": "Guidance"
+                    },
+                    "100-E9yxpJOWmuqV4Hq7I86-139": {
+                        "buttonText": "Unpublished",
+                        "100pDphXHKUyIFkxVoDHAir-42": {
+                            "buttonText": "Public Domain at creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1.html'>(s. 6.1(1))</a>"
+                        },
+                        "text": "Guidance"
+                    },
+                    "text": "Is the work published?"
+                },
+                "text": "When was the work created?"
+            },
+            "text": "Is the author's identity commonly known?"
+        },
+        "text": "Is the author pseudononymous or anonymous?"
+    },
+    "160-E9yxpJOWmuqV4Hq7I86-12": {
+        "buttonText": "Created by Joint Authors",
+        "160-E9yxpJOWmuqV4Hq7I86-15": {
+            "buttonText": "At least one Author is NOT Pseudonymous or Anonymous",
+            "160pDphXHKUyIFkxVoDHAir-47": {
+                "buttonText": "Any author currently living",
+                "160pDphXHKUyIFkxVoDHAir-143": {
+                    "buttonText": "Public Domain at last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2.html'>(s. 6.2(2))</a>"
+                },
+                "text": "Guidance"
+            },
+            "210pDphXHKUyIFkxVoDHAir-48": {
+                "buttonText": "No author is currently living",
+                "210pDphXHKUyIFkxVoDHAir-55": {
+                    "buttonText": "Artistic Work (other than an engraving)",
+                    "210-E9yxpJOWmuqV4Hq7I86-92": {
+                        "buttonText": "Last Death before 01 January 1972",
+                        "210-E9yxpJOWmuqV4Hq7I86-96": {
+                            "buttonText": "Public Domain (last death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-9-20200701.html'> (old s. 9(1))</a>"
+                        },
+                        "text": "Guidance"
+                    },
+                    "260-E9yxpJOWmuqV4Hq7I86-93": {
+                        "buttonText": "Last Death on or after 01 January 1972",
+                        "260pDphXHKUyIFkxVoDHAir-62": {
+                            "buttonText": "Public Domain at last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-9.html'>(s. 9)</a>"
+                        },
+                        "text": "Guidance"
+                    },
+                    "text": "When did the last author die?"
+                },
+                "310pDphXHKUyIFkxVoDHAir-64": {
+                    "buttonText": "Literary, dramatic, or musical work, or an engraving",
+                    "310pDphXHKUyIFkxVoDHAir-66": {
+                        "buttonText": "Published, performed or communicated",
+                        "310NegJKOf9KbaIEpDqSzxF-0": {
+                            "buttonText": "First publication, performance, or communication before last death",
+                            "360NegJKOf9KbaIEpDqSzxF-2": {
+                                "buttonText": "Last Death on or after 01 January 1972",
+                                "360NegJKOf9KbaIEpDqSzxF-4": {
+                                    "buttonText": "Public Domain at last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-9.html'>(s. 9)</a>"
+                                },
+                                "text": "Guidance"
+                            },
+                            "310NegJKOf9KbaIEpDqSzxF-1": {
+                                "buttonText": "Last Death before 01 January 1972",
+                                "310NegJKOf9KbaIEpDqSzxF-3": {
+                                    "buttonText": "Public Domain (last death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-9-20200701.html'>(old s. 9(1))</a>"
+                                },
+                                "text": "Guidance"
+                            },
+                            "text": "When did the last author die?"
+                        },
+                        "400pDphXHKUyIFkxVoDHAir-68": {
+                            "buttonText": "First publication, performance, or communication after last death but on or before 31 Dec 1998",
+                            "410pDphXHKUyIFkxVoDHAir-69": {
+                                "buttonText": "Public Domain at later of publication, performance, or communication +50 years and last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(1))</a>"
+                            },
+                            "text": "Guidance"
+                        },
+                        "460pDphXHKUyIFkxVoDHAir-113": {
+                            "buttonText": "First publication, performance or communication after last death and after 31 Dec 1998",
+                            "610pDphXHKUyIFkxVoDHAir-88": {
+                                "buttonText": "Last death on or before 31 Dec 1978",
+                                "610pDphXHKUyIFkxVoDHAir-125": {
+                                    "buttonText": "Public Domain on 01 January 2049 <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
+                                },
+                                "text": "Guidance"
+                            },
+                            "660pDphXHKUyIFkxVoDHAir-124": {
+                                "buttonText": "Last death after 31 Dec 1978",
+                                "660pDphXHKUyIFkxVoDHAir-126": {
+                                    "buttonText": "Public Domain at last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
+                                },
+                                "text": "Guidance"
+                            },
+                            "text": "When did the last author die?"
+                        },
+                        "text": "When was the first publication, peformance, or communication?"
+                    },
+                    "560pDphXHKUyIFkxVoDHAir-67": {
+                        "buttonText": "Not published, performed or communicated",
+                        "560pDphXHKUyIFkxVoDHAir-76": {
+                            "buttonText": "Last death before 01 January 1949",
+                            "560pDphXHKUyIFkxVoDHAir-79": {
+                                "buttonText": "Public Domain on 01 January 2004 <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7-20021231.html'>(old s. 7(4))</a>"
+                            },
+                            "text": "Guidance"
+                        },
+                        "610pDphXHKUyIFkxVoDHAir-77": {
+                            "buttonText": "Last death on or after 01 January 1949",
+                            "610pDphXHKUyIFkxVoDHAir-85": {
+                                "buttonText": "Last death on or before 31 Dec 1998",
+                                "610pDphXHKUyIFkxVoDHAir-88": {
+                                    "buttonText": "Last death on or before 31 Dec 1978",
+                                    "610pDphXHKUyIFkxVoDHAir-125": {
+                                        "buttonText": "Public Domain on 01 January 2049 <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
+                                    },
+                                    "text": "Guidance"
+                                },
+                                "660pDphXHKUyIFkxVoDHAir-124": {
+                                    "buttonText": "Last death after 31 Dec 1978",
+                                    "660pDphXHKUyIFkxVoDHAir-126": {
+                                        "buttonText": "Public Domain at last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
+                                    },
+                                    "text": "Guidance"
+                                },
+                                "text": "When did the last author die?"
+                            },
+                            "710pDphXHKUyIFkxVoDHAir-86": {
+                                "buttonText": "Last death after 31 Dec 1998",
+                                "710pDphXHKUyIFkxVoDHAir-133": {
+                                    "buttonText": "Public Domain at last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-7.html'>(s. 7(3))</a>"
+                                },
+                                "text": "Guidance"
+                            },
+                            "text": "When did the last author die?"
+                        },
+                        "text": "When did the last author die?"
+                    },
+                    "text": "Was the work published, performed, or communicated?"
+                },
+                "text": "What type of work is it?"
+            },
+            "text": "Are the authors still living?"
+        },
+        "760-E9yxpJOWmuqV4Hq7I86-16": {
+            "buttonText": "All Authors are Pseudonymous or Anonymous",
+            "760-E9yxpJOWmuqV4Hq7I86-24": {
+                "buttonText": "At least one Author is Commonly Known",
+                "760pDphXHKUyIFkxVoDHAir-7": {
+                    "buttonText": "Last death before 01 January 1972",
+                    "760pDphXHKUyIFkxVoDHAir-138": {
+                        "buttonText": "Public Domain (last death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2-20200701.html'>(old s. 6.2)</a>"
+                    },
+                    "text": "Guidance"
+                },
+                "810pDphXHKUyIFkxVoDHAir-8": {
+                    "buttonText": "Last death on or after 01 January 1972",
+                    "810pDphXHKUyIFkxVoDHAir-144": {
+                        "buttonText": "Public Domain at last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2.html'>(s. 6.2(2))</a>"
+                    },
+                    "text": "Guidance"
+                },
+                "text": "When did the last author die?"
+            },
+            "860-E9yxpJOWmuqV4Hq7I86-25": {
+                "buttonText": "All Authors are NOT Commonly Known",
+                "860-E9yxpJOWmuqV4Hq7I86-101": {
+                    "buttonText": "Created before 01 January 1949",
+                    "860-E9yxpJOWmuqV4Hq7I86-151": {
+                        "buttonText": "Published",
+                        "860pDphXHKUyIFkxVoDHAir-152": {
+                            "buttonText": "Published before 01 January 1970",
+                            "860pDphXHKUyIFkxVoDHAir-155": {
+                                "buttonText": "Public Domain at earlier of: publication +50 years or creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2-20200701.html'>(old s. 6.2))</a>"
+                            },
+                            "text": "Guidance"
+                        },
+                        "910pDphXHKUyIFkxVoDHAir-153": {
+                            "buttonText": "Published on or after 01 January 1970",
+                            "910pDphXHKUyIFkxVoDHAir-158": {
+                                "buttonText": "Public Domain at creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2.html'>(s. 6.2(1))</a>"
+                            },
+                            "text": "Guidance"
+                        },
+                        "text": "When was the work published?"
+                    },
+                    "960-E9yxpJOWmuqV4Hq7I86-152": {
+                        "buttonText": "Unpublished",
+                        "960pDphXHKUyIFkxVoDHAir-160": {
+                            "buttonText": "Public Domain at creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2.html'>(s. 6.2(1))</a>"
+                        },
+                        "text": "Guidance"
+                    },
+                    "text": "Is the work published?"
+                },
+                "1010-E9yxpJOWmuqV4Hq7I86-102": {
+                    "buttonText": "Created on or after 01 January 1949",
+                    "1010pDphXHKUyIFkxVoDHAir-163": {
+                        "buttonText": "Published",
+                        "1010-E9yxpJOWmuqV4Hq7I86-153": {
+                            "buttonText": "Public Domain at earlier of: publication +75 years or creation +100 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2.html'>(s. 6.2(1))</a>"
+                        },
+                        "text": "Guidance"
+                    },
+                    "1060pDphXHKUyIFkxVoDHAir-164": {
+                        "buttonText": "Unpublished",
+                        "1060-E9yxpJOWmuqV4Hq7I86-154": {
+                            "buttonText": "Public Domain at creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2.html'>(s. 6.2(1))</a>"
+                        },
+                        "text": "Guidance"
+                    },
+                    "text": "Is the work published?"
+                },
+                "text": "When was the work created?"
+            },
+            "text": "Is there an author whose identity is commonly known?"
+        },
+        "text": "Are all the authors pseudononymous or anonymous?"
     }
-  }
 }
