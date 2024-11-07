@@ -8,14 +8,14 @@
             "-440a9Ct5knDMJd3McJAFJxa-5": {
                 "buttonText": "Published before 01 January 1970",
                 "-440a9Ct5knDMJd3McJAFJxa-6": {
-                    "buttonText": "Public Domain at publication +50 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-23-20150623.html'>(old s. 23(1))</a>"
+                    "buttonText": "Public Domain at publication +50 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-23-20150623.html' target='_blank'>(old s. 23(1))</a>"
                 },
                 "text": "Guidance"
             },
             "-380a9Ct5knDMJd3McJAFJxa-9": {
                 "buttonText": "Published on or after 01 January 1970",
                 "-380a9Ct5knDMJd3McJAFJxa-10": {
-                    "buttonText": "Public Domain at earlier of: publication +70 years or fixation +100 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-23-20150623.html'>(old s.23(1))</a>"
+                    "buttonText": "Public Domain at earlier of: publication +70 years or fixation +100 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-23-20150623.html' target='_blank'>(old s.23(1))</a>"
                 },
                 "text": "Guidance"
             },
@@ -24,7 +24,7 @@
         "-320a9Ct5knDMJd3McJAFJxa-8": {
             "buttonText": "Published after fixation +50 years",
             "-320a9Ct5knDMJd3McJAFJxa-11": {
-                "buttonText": "Public Domain at fixation +50 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-23-20150623.html'>(old s. 23(1))</a>"
+                "buttonText": "Public Domain at fixation +50 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-23-20150623.html' target='_blank'>(old s. 23(1))</a>"
             },
             "text": "Guidance"
         },
@@ -35,14 +35,14 @@
         "-240a9Ct5knDMJd3McJAFJxa-13": {
             "buttonText": "Published before fixation +70 years",
             "-240a9Ct5knDMJd3McJAFJxa-15": {
-                "buttonText": "Public Domain at earlier of: publication +75 years or fixation +100 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-23.html'>(s. 23(1))</a>"
+                "buttonText": "Public Domain at earlier of: publication +75 years or fixation +100 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-23.html' target='_blank'>(s. 23(1))</a>"
             },
             "text": "Guidance"
         },
         "-180a9Ct5knDMJd3McJAFJxa-14": {
             "buttonText": "Published after fixation +70 years",
             "-180a9Ct5knDMJd3McJAFJxa-16": {
-                "buttonText": "Public Domain at fixation +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-23.html'>(s. 23(1))</a>"
+                "buttonText": "Public Domain at fixation +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-23.html' target='_blank'>(s. 23(1))</a>"
             },
             "text": "Guidance"
         },
@@ -51,7 +51,7 @@
     "-100a9Ct5knDMJd3McJAFJxa-17": {
         "buttonText": "NOT fixed in a sound recording",
         "-100a9Ct5knDMJd3McJAFJxa-18": {
-            "buttonText": "Public Domain after performance +50 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-23.html'>(s. 23(1))</a>."
+            "buttonText": "Public Domain after performance +50 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-23.html' target='_blank'>(s. 23(1))</a>."
         },
         "text": "Guidance"
     }

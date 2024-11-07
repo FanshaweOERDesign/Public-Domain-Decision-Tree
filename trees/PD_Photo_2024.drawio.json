@@ -6,14 +6,14 @@
     "-1200-E9yxpJOWmuqV4Hq7I86-2": {
       "buttonText": "Published",
       "-1200-E9yxpJOWmuqV4Hq7I86-5": {
-        "buttonText": "Public Domain at publication +50 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-12.html'>(s. 12)</a>"
+        "buttonText": "Public Domain at publication +50 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-12.html' target='_blank'>(s. 12)</a>"
       },
       "text": "Guidance"
     },
     "-1150-E9yxpJOWmuqV4Hq7I86-3": {
       "buttonText": "Unpublished",
       "-1150-E9yxpJOWmuqV4Hq7I86-7": {
-        "buttonText": "NOT in the Public Domain <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-12.html'>(s. 12)</a>"
+        "buttonText": "NOT in the Public Domain <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-12.html' target='_blank'>(s. 12)</a>"
       },
       "text": "Guidance"
     },
@@ -26,7 +26,7 @@
       "-1090-E9yxpJOWmuqV4Hq7I86-26": {
         "buttonText": "Created before 01 January 1949",
         "-1090-E9yxpJOWmuqV4Hq7I86-36": {
-          "buttonText": "Public Domain (creation +50 years) <a href='docs/SC1997c24.pdf'>(SC 1997, c.24 s.58)</a>"
+          "buttonText": "Public Domain (creation +50 years) <a href='docs/SC1997c24.pdf' target='_blank'>(SC 1997, c.24 s.58)</a>"
         },
         "text": "Guidance"
       },
@@ -37,14 +37,14 @@
           "-1040-E9yxpJOWmuqV4Hq7I86-34": {
             "buttonText": "Death before 01 January 1972",
             "-1040-E9yxpJOWmuqV4Hq7I86-30": {
-              "buttonText": "Public Domain (death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6-20021231.html'>(old s. 6)</a>"
+              "buttonText": "Public Domain (death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6-20021231.html' target='_blank'>(old s. 6)</a>"
             },
             "text": "Guidance"
           },
           "-990-E9yxpJOWmuqV4Hq7I86-35": {
             "buttonText": "Death on or after 01 January 1972",
             "-990-E9yxpJOWmuqV4Hq7I86-31": {
-              "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html'>(s. 6)</a>"
+              "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html' target='_blank'>(s. 6)</a>"
             },
             "text": "Guidance"
           },
@@ -53,7 +53,7 @@
         "-940-E9yxpJOWmuqV4Hq7I86-33": {
           "buttonText": "Created on or after 07 Nov 2012",
           "-940-E9yxpJOWmuqV4Hq7I86-37": {
-            "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html'>(s. 6)</a>"
+            "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html' target='_blank'>(s. 6)</a>"
           },
           "text": "Guidance"
         },
@@ -66,7 +66,7 @@
       "-890-E9yxpJOWmuqV4Hq7I86-28": {
         "buttonText": "Created before 01 January 1962",
         "-890-E9yxpJOWmuqV4Hq7I86-124": {
-          "buttonText": "Public Domain (creation +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-10-20021231.html'>(old s. 10)</a> <a href='https://canlii.ca/t/8wf1#sec59'>SC 2012 c.20 s.59(1)</a>"
+          "buttonText": "Public Domain (creation +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-10-20021231.html' target='_blank'>(old s. 10)</a> <a href='https://canlii.ca/t/8wf1#sec59' target='_blank'>SC 2012 c.20 s.59(1)</a>"
         },
         "text": "Guidance"
       },
@@ -77,14 +77,14 @@
           "-840qpWOXk4mW6KMCYVX-Mxv-0": {
             "buttonText": "Death before 01 January 1972",
             "-840qpWOXk4mW6KMCYVX-Mxv-1": {
-              "buttonText": "Public Domain (death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6-20021231.html'>(old s. 6)</a>"
+              "buttonText": "Public Domain (death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6-20021231.html' target='_blank'>(old s. 6)</a>"
             },
             "text": "Guidance"
           },
           "-790qpWOXk4mW6KMCYVX-Mxv-4": {
             "buttonText": "Death on or after 01 January 1972",
             "-790qpWOXk4mW6KMCYVX-Mxv-8": {
-              "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html'>(s. 6)</a>"
+              "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html' target='_blank'>(s. 6)</a>"
             },
             "text": "Guidance"
           },
@@ -95,14 +95,14 @@
           "-740qpWOXk4mW6KMCYVX-Mxv-12": {
             "buttonText": "Published",
             "-740AivGRB2IzG2qxDA_QIcS-1": {
-              "buttonText": "Public Domain at earlier of: publication +75 years or creation +100 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1.html'>(s. 6.1(1))</a>"
+              "buttonText": "Public Domain at earlier of: publication +75 years or creation +100 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1.html' target='_blank'>(s. 6.1(1))</a>"
             },
             "text": "Guidance"
           },
           "-690qpWOXk4mW6KMCYVX-Mxv-16": {
             "buttonText": "Unpublished",
             "-690qpWOXk4mW6KMCYVX-Mxv-20": {
-              "buttonText": "Public Domain at creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1.html'>(s. 6.1(1))</a>"
+              "buttonText": "Public Domain at creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1.html' target='_blank'>(s. 6.1(1))</a>"
             },
             "text": "Guidance"
           },
@@ -121,7 +121,7 @@
       "-620-E9yxpJOWmuqV4Hq7I86-41": {
         "buttonText": "Created before 01 January 1949",
         "-620-E9yxpJOWmuqV4Hq7I86-42": {
-          "buttonText": "Public Domain (creation +50 years) <a href='docs/SC1997c24.pdf'>(SC 1997, c.24 s.58)</a>"
+          "buttonText": "Public Domain (creation +50 years) <a href='docs/SC1997c24.pdf' target='_blank'>(SC 1997, c.24 s.58)</a>"
         },
         "text": "Guidance"
       },
@@ -130,14 +130,14 @@
         "-570-E9yxpJOWmuqV4Hq7I86-46": {
           "buttonText": "Death before 01 January 1972",
           "-570-E9yxpJOWmuqV4Hq7I86-48": {
-            "buttonText": "Public Domain (death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6-20021231.html'>(old s. 6)</a>"
+            "buttonText": "Public Domain (death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6-20021231.html' target='_blank'>(old s. 6)</a>"
           },
           "text": "Guidance"
         },
         "-520-E9yxpJOWmuqV4Hq7I86-47": {
           "buttonText": "Death on or after 01 January 1972",
           "-520-E9yxpJOWmuqV4Hq7I86-49": {
-            "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html'>(s. 6)</a>"
+            "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html' target='_blank'>(s. 6)</a>"
           },
           "text": "Guidance"
         },
@@ -150,7 +150,7 @@
       "-470-E9yxpJOWmuqV4Hq7I86-101": {
         "buttonText": "Created before 01 January 1949",
         "-470-E9yxpJOWmuqV4Hq7I86-103": {
-          "buttonText": "Public Domain <a href='docs/SC1997c24.pdf'>(creation +50 years) (SC 1997, c.24 s.58)</a>"
+          "buttonText": "Public Domain <a href='docs/SC1997c24.pdf' target='_blank'>(creation +50 years) (SC 1997, c.24 s.58)</a>"
         },
         "text": "Guidance"
       },
@@ -161,14 +161,14 @@
           "-420-E9yxpJOWmuqV4Hq7I86-115": {
             "buttonText": "Death before 01 January 1972",
             "-420-E9yxpJOWmuqV4Hq7I86-116": {
-              "buttonText": "Public Domain <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6-20021231.html'>(death +50 years) (old s. 6)</a>"
+              "buttonText": "Public Domain <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6-20021231.html' target='_blank'>(death +50 years) (old s. 6)</a>"
             },
             "text": "Guidance"
           },
           "-370-E9yxpJOWmuqV4Hq7I86-117": {
             "buttonText": "Death on or after 01 January 1972",
             "-370-E9yxpJOWmuqV4Hq7I86-118": {
-              "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html'>(s. 6)</a>"
+              "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.html' target='_blank'>(s. 6)</a>"
             },
             "text": "Guidance"
           },
@@ -179,14 +179,14 @@
           "-320-E9yxpJOWmuqV4Hq7I86-138": {
             "buttonText": "Published",
             "-320AivGRB2IzG2qxDA_QIcS-0": {
-              "buttonText": "Public Domain at earlier of: publication +75 years or creation +100 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1.html'>(s. 6.1(1))</a>"
+              "buttonText": "Public Domain at earlier of: publication +75 years or creation +100 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1.html' target='_blank'>(s. 6.1(1))</a>"
             },
             "text": "Guidance"
           },
           "-270-E9yxpJOWmuqV4Hq7I86-139": {
             "buttonText": "Unpublished",
             "-270-E9yxpJOWmuqV4Hq7I86-130": {
-              "buttonText": "Public Domain at creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1.html'>(s. 6.1(1))</a>"
+              "buttonText": "Public Domain at creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.1.html' target='_blank'>(s. 6.1(1))</a>"
             },
             "text": "Guidance"
           },
@@ -205,7 +205,7 @@
       "-210-E9yxpJOWmuqV4Hq7I86-84": {
         "buttonText": "Created before 01 January 1949",
         "-210-E9yxpJOWmuqV4Hq7I86-86": {
-          "buttonText": "Public Domain (creation +50 years) <a href='docs/SC1997c24.pdf'>(SC 1997, c.24 s.58)</a>"
+          "buttonText": "Public Domain (creation +50 years) <a href='docs/SC1997c24.pdf' target='_blank'>(SC 1997, c.24 s.58)</a>"
         },
         "text": "Guidance"
       },
@@ -214,14 +214,14 @@
         "-160-E9yxpJOWmuqV4Hq7I86-92": {
           "buttonText": "Last Death before 01 January 1972",
           "-160-E9yxpJOWmuqV4Hq7I86-96": {
-            "buttonText": "Public Domain (last death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-9-20021231.html'>(old s. 9.1)</a>"
+            "buttonText": "Public Domain (last death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-9-20021231.html' target='_blank'>(old s. 9.1)</a>"
           },
           "text": "Guidance"
         },
         "-110-E9yxpJOWmuqV4Hq7I86-93": {
           "buttonText": "Last Death on or after 01 January 1972",
           "-110-E9yxpJOWmuqV4Hq7I86-97": {
-            "buttonText": "Public Domain at last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-9.html'>(s. 9.1)</a>"
+            "buttonText": "Public Domain at last death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-9.html' target='_blank'>(s. 9.1)</a>"
           },
           "text": "Guidance"
         },
@@ -234,7 +234,7 @@
       "-60-E9yxpJOWmuqV4Hq7I86-107": {
         "buttonText": "Created before 01 January 1949",
         "-60-E9yxpJOWmuqV4Hq7I86-108": {
-          "buttonText": "Public Domain <a href='docs/SC1997c24.pdf'>(SC 1997, c.24 s.58)</a>"
+          "buttonText": "Public Domain <a href='docs/SC1997c24.pdf' target='_blank'>(SC 1997, c.24 s.58)</a>"
         },
         "text": "Guidance"
       },
@@ -245,14 +245,14 @@
           "-10-E9yxpJOWmuqV4Hq7I86-146": {
             "buttonText": "Last Death of Known Authors before 01 January 1972",
             "-10-E9yxpJOWmuqV4Hq7I86-149": {
-              "buttonText": "Public Domain (last death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2-20200701.html'>(old s. 6.2(2))</a>"
+              "buttonText": "Public Domain (last death +50 years) <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2-20200701.html' target='_blank'>(old s. 6.2(2))</a>"
             },
             "text": "Guidance"
           },
           "40-E9yxpJOWmuqV4Hq7I86-147": {
             "buttonText": "Last Death of Known Authors on or after 01 January 1972",
             "40-E9yxpJOWmuqV4Hq7I86-150": {
-              "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2.html'>(s. 6.2(2))</a>"
+              "buttonText": "Public Domain at death +70 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2.html' target='_blank'>(s. 6.2(2))</a>"
             },
             "text": "Guidance"
           },
@@ -263,7 +263,7 @@
           "90-E9yxpJOWmuqV4Hq7I86-151": {
             "buttonText": "Published",
             "90-E9yxpJOWmuqV4Hq7I86-153": {
-              "buttonText": "Public Domain at earlier of: publication +75 years or creation +100 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2.html'>(s. 6.2(1))</a>"
+              "buttonText": "Public Domain at earlier of: publication +75 years or creation +100 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2.html' target='_blank'>(s. 6.2(1))</a>"
             },
           
             "text": "Guidance"
@@ -271,7 +271,7 @@
           "140-E9yxpJOWmuqV4Hq7I86-152": {
             "buttonText": "Unpublished",
             "140-E9yxpJOWmuqV4Hq7I86-154": {
-              "buttonText": "Public Domain at creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2.html'>(s. 6.2(1))</a>"
+              "buttonText": "Public Domain at creation +75 years <a href='https://laws-lois.justice.gc.ca/eng/acts/C-42/section-6.2.html' target='_blank'>(s. 6.2(1))</a>"
             },
             "text": "Guidance"
           },
