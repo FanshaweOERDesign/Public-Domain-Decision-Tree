@@ -60,6 +60,12 @@
           queryUser(question[option]);
           }
         };
+        // try to generate a tooltip for the node and apply it if there is one
+        var tooltip = autoGenerateTooltip(button.innerHTML);
+        if (tooltip != null) {
+          button.classList.add("tooltip-container");
+          button.innerHTML += tooltip;
+        }
         questionElement.appendChild(button);
       }
   
