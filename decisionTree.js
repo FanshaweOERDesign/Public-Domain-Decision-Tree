@@ -193,7 +193,7 @@
     }
 
     function termAndDefinitionToTooltip(term, definition) {
-      return `<h5>${term}</h5><p>${definition}</p>`;
+      return `<h4>${term}</h4><p>${definition}</p>`;
     }
 
     queryUser(treeMap["Type"]);

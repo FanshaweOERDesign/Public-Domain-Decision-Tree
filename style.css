@@ -238,8 +238,9 @@ border-left: calc(var(--line-width)) solid #ddd;
 .tooltip .tooltiptext {
   visibility: hidden;
   width: 120px;
-  background-color: black;
-  color: #fff;
+  background-color: #eee;
+  color: #000;
+  border: 1px solid #333;
   text-align: center;
   padding: 5px 0;
   border-radius: 6px;
