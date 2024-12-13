@@ -234,7 +234,7 @@ border-left: calc(var(--line-width)) solid #ddd;
   display: inline-block;
 }
 
-/* Tooltip text */
+/* Tooltip */
 .tooltip-container .tooltip {
   visibility: hidden;
   width: 120px;
@@ -242,10 +242,17 @@ border-left: calc(var(--line-width)) solid #ddd;
   color: #000;
   border: 1px solid #333;
   text-align: center;
-  padding: 5px 0;
+  padding: 5px;
   border-radius: 6px;
   position: absolute;
   z-index: 1;
+}
+
+.tooltip p {
+  margin-top: 5px;
+}
+.tooltip h4 {
+  margin-bottom: 5px;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
