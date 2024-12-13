@@ -1,4 +1,4 @@
-import { autoGenerateTooltip } from "./tooltipGenerator";
+//
 
 (async () => {
     const queryUser = (question) => {
@@ -114,8 +114,8 @@ import { autoGenerateTooltip } from "./tooltipGenerator";
       // try to generate a tooltip for the node and apply it if there is one
       var tooltip = autoGenerateTooltip(text.innerHTML);
       if (tooltip != null) {
-        details.classList.add("tooltip");
-        details.innerHTML += tooltip;
+       details.classList.add("tooltip");
+       text.innerHTML += tooltip;
       }
 
       for (const child of children){
@@ -172,7 +172,33 @@ import { autoGenerateTooltip } from "./tooltipGenerator";
       "Performance": performanceData
     }
 
+    // tooltip generator
+    // -----------------
+    const glossary = await fetch("termGlossary.json").then((response) => response.json());
+    function autoGenerateTooltip(content) {
+      var tooltiptext = '';
+      // go through each term in the glossary and if a term matches anything
+      // in the content string, add the definition to tooltiptext
+      Object.entries(glossary).forEach(pair => {
+        let term = pair[0];
+        if (content.toLowerCase().includes(term.toLowerCase())) {
+          tooltiptext += termAndDefinitionToTooltip(term, pair[1]);
+        }
+      });
+      if (tooltiptext == '') {
+        return null;
+      }
+      return `<span class="tooltiptext">${tooltiptext}</span>`;
+    }
+
+    function termAndDefinitionToTooltip(term, definition) {
+      return `<h5>${term}</h5><p>${definition}</p>`;
+    }
+
     queryUser(treeMap["Type"]);
     buildTree(document.getElementById('tree'), treeMap["Type"]);
 })();
+
+
+
 
