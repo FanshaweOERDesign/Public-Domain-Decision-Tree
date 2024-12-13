@@ -1,3 +1,5 @@
+import { autoGenerateTooltip } from "./tooltipGenerator";
+
 (async () => {
     const queryUser = (question) => {
       const app = document.getElementById("app");
@@ -105,9 +107,16 @@
       }
       const text = document.createElement('summary');
       text.innerHTML = node.buttonText || node.text;
-      details.appendChild(text)
+      details.appendChild(text);
       item.appendChild(details).appendChild(list);
       tree.appendChild(item);
+
+      // try to generate a tooltip for the node and apply it if there is one
+      var tooltip = autoGenerateTooltip(text.innerHTML);
+      if (tooltip != null) {
+        details.classList.add("tooltip");
+        details.innerHTML += tooltip;
+      }
 
       for (const child of children){
 

@@ -22,7 +22,9 @@ export function autoGenerateTooltip(content) {
       tooltiptext += termAndDefinitionToTooltip(term, pair[1]);
     }
   });
-  
+  if (tooltiptext == '') {
+    return null;
+  }
   return `<span class="tooltiptext">${tooltiptext}</span>`;
 }
 
