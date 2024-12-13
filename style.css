@@ -228,10 +228,18 @@ border-left: calc(var(--line-width)) solid #ddd;
   }
 }
 
+/*// Tooltip Styling //*/
 /* Tooltip container (the element you hover over to show the tooltip) */
 .tooltip-container {
   position: relative;
   display: inline-block;
+}
+
+.question .tooltip-container {
+  position: static;
+}
+.question {
+  position: relative;
 }
 
 /* Tooltip */
@@ -248,6 +256,10 @@ border-left: calc(var(--line-width)) solid #ddd;
   position: absolute;
   margin-left: 5px;
   z-index: 1;
+}
+
+.question .tooltip-container .tooltip {
+  left: 100%;
 }
 
 .tooltip p {
