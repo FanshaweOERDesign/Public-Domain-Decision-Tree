@@ -114,7 +114,7 @@
       // try to generate a tooltip for the node and apply it if there is one
       var tooltip = autoGenerateTooltip(text.innerHTML);
       if (tooltip != null) {
-       details.classList.add("tooltip");
+       details.classList.add("tooltip-container");
        text.innerHTML += tooltip;
       }
 
@@ -189,7 +189,7 @@
       if (tooltiptext == '') {
         return null;
       }
-      return `<span class="tooltiptext">${tooltiptext}</span>`;
+      return `<span class="tooltip">${tooltiptext}</span>`;
     }
 
     function termAndDefinitionToTooltip(term, definition) {

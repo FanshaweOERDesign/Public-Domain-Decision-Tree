@@ -229,13 +229,13 @@ border-left: calc(var(--line-width)) solid #ddd;
 }
 
 /* Tooltip container (the element you hover over to show the tooltip) */
-.tooltip {
+.tooltip-container {
   position: relative;
   display: inline-block;
 }
 
 /* Tooltip text */
-.tooltip .tooltiptext {
+.tooltip-container .tooltip {
   visibility: hidden;
   width: 120px;
   background-color: #eee;
@@ -249,6 +249,6 @@ border-left: calc(var(--line-width)) solid #ddd;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
-.tooltip:hover .tooltiptext {
+.tooltip-container:hover .tooltip {
   visibility: visible;
 }
