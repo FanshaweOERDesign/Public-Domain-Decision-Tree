@@ -1,3 +1,5 @@
+//
+
 (async () => {
     const queryUser = (question) => {
       const app = document.getElementById("app");
@@ -58,6 +60,12 @@
           queryUser(question[option]);
           }
         };
+        // try to generate a tooltip for the node and apply it if there is one
+        var tooltip = autoGenerateTooltip(button.innerHTML);
+        if (tooltip != null) {
+          button.classList.add("tooltip-container");
+          button.innerHTML += tooltip;
+        }
         questionElement.appendChild(button);
       }
   
@@ -105,9 +113,16 @@
       }
       const text = document.createElement('summary');
       text.innerHTML = node.buttonText || node.text;
-      details.appendChild(text)
+      details.appendChild(text);
       item.appendChild(details).appendChild(list);
       tree.appendChild(item);
+
+      // try to generate a tooltip for the node and apply it if there is one
+      var tooltip = autoGenerateTooltip(text.innerHTML);
+      if (tooltip != null) {
+       text.classList.add("tooltip-container");
+       text.innerHTML += tooltip;
+      }
 
       for (const child of children){
 
@@ -163,7 +178,34 @@
       "Performance": performanceData
     }
 
+    // tooltip generator
+    // -----------------
+    const glossary = await fetch("termGlossary.json").then((response) => response.json());
+    function autoGenerateTooltip(content) {
+      var tooltiptext = '';
+      // go through each term in the glossary and if a term matches any whole words
+      // in the content string, add the definition to tooltiptext
+      Object.entries(glossary).forEach(pair => {
+        let term = pair[0];
+        const regexForMatchTerm = new RegExp(`\\b(${term})\\b`, "i") //matches only whole words that match 'term', case insensitively
+        if (content.match(regexForMatchTerm) != null) {
+          tooltiptext += termAndDefinitionToTooltip(term, pair[1]);
+        }
+      });
+      if (tooltiptext == '') {
+        return null;
+      }
+      return `<span class="tooltip">${tooltiptext}</span>`;
+    }
+
+    function termAndDefinitionToTooltip(term, definition) {
+      return `<h4>${term}</h4><p>${definition}</p>`;
+    }
+
     queryUser(treeMap["Type"]);
     buildTree(document.getElementById('tree'), treeMap["Type"]);
 })();
+
+
+
 

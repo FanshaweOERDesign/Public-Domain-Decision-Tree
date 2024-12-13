@@ -227,3 +227,49 @@ border-left: calc(var(--line-width)) solid #ddd;
     overflow-x: hidden;
   }
 }
+
+/*// Tooltip Styling //*/
+/* Tooltip container (the element you hover over to show the tooltip) */
+.tooltip-container {
+  position: relative;
+  display: inline-block;
+}
+
+.question .tooltip-container {
+  position: static;
+}
+.question {
+  position: relative;
+}
+
+/* Tooltip */
+.tooltip-container .tooltip {
+  visibility: hidden;
+  width: 120px;
+  background-color: #eee;
+  color: #000;
+  border: 1px solid #333;
+  text-align: center;
+  padding: 5px;
+  border-radius: 6px;
+
+  position: absolute;
+  margin-left: 5px;
+  z-index: 1;
+}
+
+.question .tooltip-container .tooltip {
+  left: 100%;
+}
+
+.tooltip p {
+  margin-top: 5px;
+}
+.tooltip h4 {
+  margin-bottom: 5px;
+}
+
+/* Show the tooltip when you mouse over the tooltip container */
+.tooltip-container:hover .tooltip {
+  visibility: visible;
+}
