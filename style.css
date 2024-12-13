@@ -232,7 +232,6 @@ border-left: calc(var(--line-width)) solid #ddd;
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted black;
 }
 
 /* Tooltip text */
