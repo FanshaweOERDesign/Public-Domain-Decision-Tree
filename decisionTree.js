@@ -177,11 +177,12 @@
     const glossary = await fetch("termGlossary.json").then((response) => response.json());
     function autoGenerateTooltip(content) {
       var tooltiptext = '';
-      // go through each term in the glossary and if a term matches anything
+      // go through each term in the glossary and if a term matches any whole words
       // in the content string, add the definition to tooltiptext
       Object.entries(glossary).forEach(pair => {
         let term = pair[0];
-        if (content.toLowerCase().includes(term.toLowerCase())) {
+        const regexForMatchTerm = new RegExp(`\\b(${term})\\b`, "i") //matches only whole words that match 'term', case insensitively
+        if (content.match(regexForMatchTerm) != null) {
           tooltiptext += termAndDefinitionToTooltip(term, pair[1]);
         }
       });
