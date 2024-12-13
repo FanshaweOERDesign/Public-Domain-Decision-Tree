@@ -12,7 +12,7 @@ each term's definition in it.
 params 
   content: the text for which to search for terms and put their definitions in a tooltip
 */
-function autoGenerateTooltip(content) {
+export function autoGenerateTooltip(content) {
   var tooltiptext = '';
   // go through each term in the glossary and if a term matches anything
   // in the content string, add the definition to tooltiptext
@@ -21,7 +21,7 @@ function autoGenerateTooltip(content) {
     if (content.toLowerCase().includes(term.toLowerCase())) {
       tooltiptext += termAndDefinitionToTooltip(term, pair[1]);
     }
-  });;
+  });
   
   return `<span class="tooltiptext">${tooltiptext}</span>`;
 }
